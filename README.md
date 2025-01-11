@@ -13,6 +13,7 @@
 | 2024 | CCS | Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis | [Code](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) |
 | 2024 | CCS | Towards Fine-Grained Webpage Fingerprinting at Scale | [Code](https://zenodo.org/records/13383332) |
 | 2023 | S&P | Robust Multi-tab Website Fingerprinting Attacks in the Wild| [Code](https://github.com/Xinhao-Deng/Multitab-WF-Datasets)
+| 2018 | NDSS | Automated Website Fingerprinting through Deep Learning | [Code](https://github.com/DistriNet/DLWF) |
 
 2. Website Fingerprinting Defenses
 
