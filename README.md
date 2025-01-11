@@ -11,7 +11,7 @@
 |------|--------|--------------------------------------------------|---|
 | 2025 | | | [Github]() |
 | 2024 | CCS | Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis | [Github](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) |
-| 2025 | | | [Github]() |
+| 2024 | CCS | Towards Fine-Grained Webpage Fingerprinting at Scale | [Github](https://zenodo.org/records/13383332) |
 
 2. Website Fingerprinting Defenses
 
