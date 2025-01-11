@@ -13,6 +13,6 @@
 
 3. Website Fingerprinting Defenses
 
-| Year | Journal/Conference | Title | Relevance Score |
+| Year | Journal/Conference | Title | Source Code |
 |------|--------|--------------------------------------------------|---|
 | 2024 | TIFS | WFDefProxy: Real World Implementation and Evaluation of Website Fingerprinting Defenses | [Github](https://github.com/websitefingerprinting/wfdef) |
