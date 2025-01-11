@@ -11,7 +11,7 @@
 |------|--------|--------------------------------------------------|---|
 | 2025 | | | [Github]() |
 
-3. Website Fingerprinting Defenses
+2. Website Fingerprinting Defenses
 
 | Year | Journal/Conference | Title | Source Code |
 |------|--------|--------------------------------------------------|---|
