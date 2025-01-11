@@ -3,6 +3,6 @@
 
 ----
 
-### Categories
+## Categories
 
 -----|
