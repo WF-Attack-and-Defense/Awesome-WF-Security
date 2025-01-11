@@ -2,7 +2,7 @@
 > A curated list of research works on website fingerprinting attack and defense
 
 ----
-                    
+
 ### Categories
-                    
+<hr>           
 --------
