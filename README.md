@@ -7,10 +7,12 @@
 
 1. Website Fingerprinting Attack
 
-Year | Journal/Conference | Title | Relevance Score
-2025 | | | 
+| Year | Journal/Conference | Title | Relevance Score |
+|------|--------|--------------------------------------------------|---|
+| 2025 | | |  |
 
 3. Website Fingerprinting Defense
 
-Year | Journal/Conference | Title | Relevance Score
-2025 | | | 
+| Year | Journal/Conference | Title | Relevance Score |
+|------|--------|--------------------------------------------------|---|
+| 2025 | | | |
