@@ -29,6 +29,7 @@
 | 2025 | | | [Code]() |
 
 3. Website Fingerprinting Attacks/Defenses Measurement
+
 | Year | Journal/Conference | Title | Source Code |
 |------|--------|--------------------------------------------------|---|
 | 2018 | CCS | Measuring Information Leakage in Website Fingerprinting Attacks and Defenses | [Code](https://github.com/s0irrlor7m/InfoLeakWebsiteFingerprint) |
