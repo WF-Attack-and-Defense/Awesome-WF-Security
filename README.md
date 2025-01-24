@@ -1,5 +1,5 @@
 # Awesome Website Fingerprinting Attack and Defense Studies
-> A curated list of research works on website fingerprinting attacks and defenses since 2014.
+> A curated list of research works on website fingerprinting attacks and defenses since 2015.
 
 ----
 
@@ -23,7 +23,7 @@
 
 | Defenses | Year | Journal/Conference | Title | Source Code |
 |------|------|--------|--------------------------------------------------|---|
-| WFDef | 2024 | TIFS | WFDefProxy: Real World Implementation and Evaluation of Website Fingerprinting Defenses | [Code](https://github.com/websitefingerprinting/wfdef) |
+| WFDefProxy | 2024 | TIFS | WFDefProxy: Real World Implementation and Evaluation of Website Fingerprinting Defenses | [Code](https://github.com/websitefingerprinting/wfdef) |
 | One-Page | 2021 | CCS | The One-Page Setting: A Higher Standard for Evaluating Website Fingerprinting Defenses | [Code](https://www.cs.sfu.ca/~taowang/wf/Wa-binary.zip) [Dataset](https://www.cs.sfu.ca/~taowang/wf/20000.zip) |
 | TrafficSliver | 2020 | CCS | TrafficSliver: Fighting Website Fingerprinting Attacks with Traffic Splitting | [Code](https://github.com/TrafficSliver) |
 | | 2025 | | | [Code]() |
@@ -32,6 +32,8 @@
 
 | Year | Journal/Conference | Title | Source Code |
 |------|--------|--------------------------------------------------|---|
+| 2024 | NDSS | On Precisely Detecting Censorship Circumvention in Real-World Networks | Code: [AWF](https://github.com/DistriNet/DLWF) and [DF](https://github.com/deep-fingerprinting/df) |
 | 2018 | CCS | Measuring Information Leakage in Website Fingerprinting Attacks and Defenses | [Code](https://github.com/s0irrlor7m/InfoLeakWebsiteFingerprint) |
 | 2018 | CCS | Privacy-Preserving Dynamic Learning of Tor Network Traffic | [Code](https://tmodel-ccs2018.github.io/) |
 | 2017 | CCS | How Unique is Your .onion?: An Analysis of the Fingerprintability of Tor Onion Services | [Datesets (From Tik-Tok)](https://zenodo.org/records/11631265) |
+| 2016 | CCS | Safely Measuring Tor | [Code](https://github.com/privcount/privcount) |
