@@ -16,14 +16,18 @@
 | TMWF | 2023 | CCS | Transformer-based Model for Multi-tab Website Fingerprinting Attack | [Code](https://github.com/jzx-bupt/TMWF) |
 | ARES | 2023 | S&P | Robust Multi-tab Website Fingerprinting Attacks in the Wild | [Code](https://github.com/Xinhao-Deng/Multitab-WF-Datasets) |
 | TF | 2019 | CCS | Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning | [Code](https://github.com/triplet-fingerprinting/tf) |
+| Tik-Tok | 2019 | PETS | Tik-Tok: The Utility of Packet Timing in Website Fingerprinting Attacks | [Code](https://github.com/msrocean/Tik_Tok) |
 | DF | 2018 | CCS | Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning | [Code](https://github.com/deep-fingerprinting/df) |
 | AWF | 2018 | NDSS | Automated Website Fingerprinting through Deep Learning | [Code](https://github.com/DistriNet/DLWF) |
+| CUMUL | 2016 | NDSS | Website Fingerprinting at Internet Scale | [Code](https://github.com/lsvih/CUMUL) |
 
 2. Website Fingerprinting Defenses
 
 | Defenses | Year | Journal/Conference | Title | Source Code |
 |------|------|--------|--------------------------------------------------|---|
 | WFDefProxy | 2024 | TIFS | WFDefProxy: Real World Implementation and Evaluation of Website Fingerprinting Defenses | [Code](https://github.com/websitefingerprinting/wfdef) |
+| SoK | 2023 | S&P | SoK: A Critical Evaluation of Efficient Website Fingerprinting Defenses | [Code](https://github.com/critical-wf-sok/Efficient-Defense-Evaluation) |
+| Surakav | 2022 | S&P | Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense | Code: [WFD-Gan](https://github.com/websitefingerprinting/wfd-gan) [Surakav](https://github.com/websitefingerprinting/surakav-imp) |
 | One-Page | 2021 | CCS | The One-Page Setting: A Higher Standard for Evaluating Website Fingerprinting Defenses | [Code](https://www.cs.sfu.ca/~taowang/wf/Wa-binary.zip) [Dataset](https://www.cs.sfu.ca/~taowang/wf/20000.zip) |
 | TrafficSliver | 2020 | CCS | TrafficSliver: Fighting Website Fingerprinting Attacks with Traffic Splitting | [Code](https://github.com/TrafficSliver) |
 | | 2025 | | | [Code]() |
@@ -33,7 +37,8 @@
 | Year | Journal/Conference | Title | Source Code |
 |------|--------|--------------------------------------------------|---|
 | 2024 | NDSS | On Precisely Detecting Censorship Circumvention in Real-World Networks | Code: [AWF](https://github.com/DistriNet/DLWF) and [DF](https://github.com/deep-fingerprinting/df) |
+| Palette | S&P | Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization | [Code](https://github.com/kxdkxd/Palette) |
 | 2018 | CCS | Measuring Information Leakage in Website Fingerprinting Attacks and Defenses | [Code](https://github.com/s0irrlor7m/InfoLeakWebsiteFingerprint) |
 | 2018 | CCS | Privacy-Preserving Dynamic Learning of Tor Network Traffic | [Code](https://tmodel-ccs2018.github.io/) |
-| 2017 | CCS | How Unique is Your .onion?: An Analysis of the Fingerprintability of Tor Onion Services | [Datesets (From Tik-Tok)](https://zenodo.org/records/11631265) |
+| 2017 | CCS | How Unique is Your .onion?: An Analysis of the Fingerprintability of Tor Onion Services | Datese: [Tik-Tok](https://zenodo.org/records/11631265) |
 | 2016 | CCS | Safely Measuring Tor | [Code](https://github.com/privcount/privcount) |
