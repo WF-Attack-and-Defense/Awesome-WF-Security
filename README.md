@@ -14,7 +14,7 @@
 | Oscar | 2024 | CCS | Towards Fine-Grained Webpage Fingerprinting at Scale | [Code](https://zenodo.org/records/13383332) |
 | NetCLR | 2023 | CCS | Realistic Website Fingerprinting By Augmenting Network Traces | [Code](https://github.com/SPIN-UMass/Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces) |
 | TMWF | 2023 | CCS | Transformer-based Model for Multi-tab Website Fingerprinting Attack | [Code](https://github.com/jzx-bupt/TMWF) |
-| RF | 2023 USENIX | Subverting Website Fingerprinting Defenses with Robust Traffic Representation | [Code](https://github.com/robust-fingerprinting/RF) |
+| RF | 2023 | USENIX | Subverting Website Fingerprinting Defenses with Robust Traffic Representation | [Code](https://github.com/robust-fingerprinting/RF) |
 | ARES | 2023 | S&P | Robust Multi-tab Website Fingerprinting Attacks in the Wild | [Code](https://github.com/Xinhao-Deng/Multitab-WF-Datasets) |
 | TF | 2019 | CCS | Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning | [Code](https://github.com/triplet-fingerprinting/tf) |
 | Tik-Tok | 2019 | PETS | Tik-Tok: The Utility of Packet Timing in Website Fingerprinting Attacks | [Code](https://github.com/msrocean/Tik_Tok) |
@@ -33,7 +33,7 @@
 | QCSD | 2022 | USENIX | QCSD: A QUIC Client-Side Website-Fingerprinting Defence Framework | [Code](https://github.com/jpcsmith/neqo-qcsd) |
 | One-Page | 2021 | CCS | The One-Page Setting: A Higher Standard for Evaluating Website Fingerprinting Defenses | [Code](https://www.cs.sfu.ca/~taowang/wf/Wa-binary.zip) [Dataset](https://www.cs.sfu.ca/~taowang/wf/20000.zip) |
 | BLANKET| 2021 | USENIX | Defeating DNN-Based Traffic Analysis Systems in Real-Time With Blind Adversarial Perturbations | [Code](https://github.com/SPIN-UMass/BLANKET) |
-| FRONT and GLUE| 2020 | USENIX | Zero-delay Lightweight Defenses against Website Fingerprinting | [Code}(https://github.com/websitefingerprinting/WebsiteFingerprinting/) |
+| FRONT and GLUE| 2020 | USENIX | Zero-delay Lightweight Defenses against Website Fingerprinting | [Code](https://github.com/websitefingerprinting/WebsiteFingerprinting/) |
 | TrafficSliver | 2020 | CCS | TrafficSliver: Fighting Website Fingerprinting Attacks with Traffic Splitting | [Code](https://github.com/TrafficSliver) |
 | Walkie-Talkie | 2017 | USENIX | Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks | Code (Original link died): [Tik-Tok](https://github.com/msrocean/Tik_Tok) |
 
