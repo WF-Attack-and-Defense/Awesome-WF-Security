@@ -16,11 +16,14 @@
 | TMWF | 2023 | CCS | Transformer-based Model for Multi-tab Website Fingerprinting Attack | [Code](https://github.com/jzx-bupt/TMWF) |
 | RF | 2023 | USENIX | Subverting Website Fingerprinting Defenses with Robust Traffic Representation | [Code](https://github.com/robust-fingerprinting/RF) |
 | ARES | 2023 | S&P | Robust Multi-tab Website Fingerprinting Attacks in the Wild | [Code](https://github.com/Xinhao-Deng/Multitab-WF-Datasets) |
+| BAPM | 2021 | ACSAC | BAPM: Block Attention Profiling Model for Multi-tab Website Fingerprinting Attacks on Tor | None |
 | TF | 2019 | CCS | Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning | [Code](https://github.com/triplet-fingerprinting/tf) |
 | Tik-Tok | 2019 | PETS | Tik-Tok: The Utility of Packet Timing in Website Fingerprinting Attacks | [Code](https://github.com/msrocean/Tik_Tok) |
+| Var-CNN | 2019 | PETS | Var-CNN: A Data-Efficient Website Fingerprinting Attack Based on Deep Learning | [Code](https://github.com/sanjit-bhat/Var-CNN) |
 | DF | 2018 | CCS | Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning | [Code](https://github.com/deep-fingerprinting/df) |
 | AWF | 2018 | NDSS | Automated Website Fingerprinting through Deep Learning | [Code](https://github.com/DistriNet/DLWF) |
 | CUMUL | 2016 | NDSS | Website Fingerprinting at Internet Scale | [Code](https://github.com/lsvih/CUMUL) |
+| k-FP | 2016 | USENIX | k-fingerprinting: A Robust Scalable Website Fingerprinting Technique | [Code](https://github.com/jhayes14/k-FP) |
 
 2. Website Fingerprinting Defenses
 
@@ -28,6 +31,7 @@
 |------|------|--------|--------------------------------------------------|---|
 | WFDefProxy | 2024 | TIFS | WFDefProxy: Real World Implementation and Evaluation of Website Fingerprinting Defenses | [Code](https://github.com/websitefingerprinting/wfdef) |
 | SoK | 2023 | S&P | SoK: A Critical Evaluation of Efficient Website Fingerprinting Defenses | [Code](https://github.com/critical-wf-sok/Efficient-Defense-Evaluation) |
+| DeepSE-WF | 2023 | PETS | DeepSE-WF: Unified Security Estimation for Website Fingerprinting Defenses | [Code](https://github.com/veichta/DeepSE-WF) |
 | Surakav | 2022 | S&P | Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense | Code: [WFD-Gan](https://github.com/websitefingerprinting/wfd-gan) [Surakav](https://github.com/websitefingerprinting/surakav-imp) |
 | DeepCoFFEA | 2022 | S&P | DeepCoFFEA: Improved Flow Correlation Attacks on Tor via Metric Learning and Amplification | [Code](https://github.com/traffic-analysis/deepcoffea) |
 | QCSD | 2022 | USENIX | QCSD: A QUIC Client-Side Website-Fingerprinting Defence Framework | [Code](https://github.com/jpcsmith/neqo-qcsd) |
@@ -36,6 +40,7 @@
 | FRONT and GLUE| 2020 | USENIX | Zero-delay Lightweight Defenses against Website Fingerprinting | [Code](https://github.com/websitefingerprinting/WebsiteFingerprinting/) |
 | TrafficSliver | 2020 | CCS | TrafficSliver: Fighting Website Fingerprinting Attacks with Traffic Splitting | [Code](https://github.com/TrafficSliver) |
 | Walkie-Talkie | 2017 | USENIX | Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks | Code (Original link died): [Tik-Tok](https://github.com/msrocean/Tik_Tok) |
+| WFDA | 2017 | PETS | Website Fingerprinting Defenses at the Application Layer | [Code](https://github.com/camelids/ALPaCA) |
 
 3. Website Fingerprinting Attacks/Defenses Measurement
 
