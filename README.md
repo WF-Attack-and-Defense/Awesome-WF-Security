@@ -13,7 +13,6 @@
 | LASERBEAK | 2024 | TIFS | LASERBEAK: Evolving Website Fingerprinting Attacks with Attention and Multi-Channel Feature Representatio | [Code]() |
 | Holmes | 2024 | CCS | Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis | [Code](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) |
 | STC-WF | 2024 | TIFS | Inter-Flow Spatio-Temporal Correlation Analysis Based Website Fingerprinting Using Graph Neural Network | None |
-| FSWF | 2024 | TIFS | An Adaptability-Enhanced Few-Shot Website Fingerprinting Attack Based on Collusion | [Code]() |
 | Oscar | 2024 | CCS | Towards Fine-Grained Webpage Fingerprinting at Scale | [Code](https://zenodo.org/records/13383332) |
 | SMC | 2024 | TIFS | An Adaptability-Enhanced Few-Shot Website Fingerprinting Attack Based on Collusion | [Code](https://github.com/Tanjingwen96/SMC) |
 | NetCLR | 2023 | CCS | Realistic Website Fingerprinting By Augmenting Network Traces | [Code](https://github.com/SPIN-UMass/Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces) |
