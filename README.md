@@ -40,6 +40,8 @@
 | WFDefProxy | 2024 | TIFS | WFDefProxy: Real World Implementation and Evaluation of Website Fingerprinting Defenses | [Code](https://github.com/websitefingerprinting/wfdef) |
 | ERWF | 2024 | TIFS | Enhancing Resilience in Website Fingerprinting: Novel Adversary Strategies for Noisy Traffic Environments | [Code](https://github.com/guduin/wf) |
 | RUDOLF | 2024 | TIFS | RUDOLF: An Efficient and Adaptive Defense Approach Against Website Fingerprinting Attacks Based on Soft Actor-Critic Algorithm | None |
+| ALERT | 2024 | INFOCOM | Trace-agnostic and Adversarial Training-resilient Website Fingerprinting Defense | None |
+| WFGuard | 2024 | INFOCOM | WFGuard: an Effective Fuzzing-testing-based Traffic Morphing Defense against Website Fingerprinting | [None |
 | DeepSE-WF | 2023 | PETS | DeepSE-WF: Unified Security Estimation for Website Fingerprinting Defenses | [Code](https://github.com/veichta/DeepSE-WF) |
 | ACUP3 | 2023 | TIFS | Resisting DNN-Based Website Fingerprinting Attacks Enhanced by Adversarial Training | None |
 | RegularTor | 2022 | PETS | RegulaTor: A Straightforward Website Fingerprinting Defense | [Code](https://github.com/jkhollandjr/RegulaTor) |
@@ -47,11 +49,12 @@
 | DeepCoFFEA | 2022 | S&P | DeepCoFFEA: Improved Flow Correlation Attacks on Tor via Metric Learning and Amplification | [Code](https://github.com/traffic-analysis/deepcoffea) |
 | QCSD | 2022 | USENIX | QCSD: A QUIC Client-Side Website-Fingerprinting Defence Framework | [Code](https://github.com/jpcsmith/neqo-qcsd) |
 | snWF | 2022 | TIFS | snWF: Website Fingerprinting Attack by Ensembling the Snapshot of Deep Learning | None |
+| DLWFD | 2022 | INFOCOM | Towards an Efficient Defense against Deep Learning based Website Fingerprinting | None |
 | Minipatch | 2022 | TIFS | Minipatch: Undermining DNN-Based Website Fingerprinting With Adversarial Patches | [Code](https://github.com/website-fingerprinting/minipatch) | 
 | One-Page | 2021 | CCS | The One-Page Setting: A Higher Standard for Evaluating Website Fingerprinting Defenses | [Code](https://www.cs.sfu.ca/~taowang/wf/Wa-binary.zip) [Dataset](https://www.cs.sfu.ca/~taowang/wf/20000.zip) |
 | BLANKET| 2021 | USENIX | Defeating DNN-Based Traffic Analysis Systems in Real-Time With Blind Adversarial Perturbations | [Code](https://github.com/SPIN-UMass/BLANKET) |
 | Mockingbird | 2021 | TIFS | Mockingbird: Defending Against Deep-Learning-Based Website Fingerprinting Attacks With Adversarial Traces | [Code](https://github.com/msrocean/mockingbird/) |
-| DFD | 2020 | INFOCOM | DFD: Adversarial Learning-based Approach to Defend Against Website Fingerprinting | [Code]() |
+| DFD | 2020 | INFOCOM | DFD: Adversarial Learning-based Approach to Defend Against Website Fingerprinting | [None |
 | FRONT and GLUE| 2020 | USENIX | Zero-delay Lightweight Defenses against Website Fingerprinting | [Code](https://github.com/websitefingerprinting/WebsiteFingerprinting/) |
 | TrafficSliver | 2020 | CCS | TrafficSliver: Fighting Website Fingerprinting Attacks with Traffic Splitting | [Code](https://github.com/TrafficSliver) |
 | HyWF | 2020 | PETS | Protecting against Website Fingerprinting with Multihoming | [Code](https://github.com/sebhenri/HyWF) |
