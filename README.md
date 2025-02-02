@@ -58,6 +58,7 @@
 | FRONT and GLUE| 2020 | USENIX | Zero-delay Lightweight Defenses against Website Fingerprinting | [Code](https://github.com/websitefingerprinting/WebsiteFingerprinting/) |
 | TrafficSliver | 2020 | CCS | TrafficSliver: Fighting Website Fingerprinting Attacks with Traffic Splitting | [Code](https://github.com/TrafficSliver) |
 | HyWF | 2020 | PETS | Protecting against Website Fingerprinting with Multihoming | [Code](https://github.com/sebhenri/HyWF) |
+| WF-GAN | 2020 | ISCC | WF-GAN: Fighting Back Against Website Fingerprinting Attack Using Adversarial Learning | None |
 | DynaFlow | 2018 | WPES | DynaFlow: An Efficient Website Fingerprinting Defense Based on Dynamically-Adjusting Flows | [Code](https://github.com/davidboxboro/DynaFlow) |
 | Walkie-Talkie | 2017 | USENIX | Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks | Code (Original link died): [Tik-Tok](https://github.com/msrocean/Tik_Tok) |
 | WFDA | 2017 | PETS | Website Fingerprinting Defenses at the Application Layer | [Code](https://github.com/camelids/ALPaCA) |
