@@ -14,6 +14,7 @@
 | Holmes | 2024 | CCS | Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis | [Code](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) |
 | STC-WF | 2024 | TIFS | Inter-Flow Spatio-Temporal Correlation Analysis Based Website Fingerprinting Using Graph Neural Network | None |
 | Oscar | 2024 | CCS | Towards Fine-Grained Webpage Fingerprinting at Scale | [Code](https://zenodo.org/records/13383332) |
+| RobustWF | 2024 | INFOCOM | Causality Correlation and Context Learning Aided Robust Lightweight Multi-Tab Website Fingerprinting Over Encrypted Tunnel | [Code](https://github.com/chenxiailian/robustweb) |
 | SMC | 2024 | TIFS | An Adaptability-Enhanced Few-Shot Website Fingerprinting Attack Based on Collusion | [Code](https://github.com/Tanjingwen96/SMC) |
 | NetCLR | 2023 | CCS | Realistic Website Fingerprinting By Augmenting Network Traces | [Code](https://github.com/SPIN-UMass/Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces) |
 | TMWF | 2023 | CCS | Transformer-based Model for Multi-tab Website Fingerprinting Attack | [Code](https://github.com/jzx-bupt/TMWF) |
