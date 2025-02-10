@@ -93,3 +93,14 @@
 
 ## Distribution of Categories by Journal/Conference and Year
 ![Distribution of Categories by Journal/Conference and Year](https://github.com/WF-Attack-and-Defense/Awesome-WF-Security/blob/main/imgs/AwesomeWFS.png)
+
+# Citation
+
+**cite** contains xxxx implementation for our [paper](xxxxx).  If you find this code useful in your research, please consider citing:
+
+@inproceedings{plummerCITE2018,
+	Author = {xxxx},
+	Title = {xxxx},
+	Booktitle  = {xxx},
+	Year = {20xx}
+}
