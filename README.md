@@ -82,3 +82,8 @@
 | 2018 | PETS | Feature Selection for Website Fingerprinting | None |
 | 2017 | CCS | How Unique is Your .onion?: An Analysis of the Fingerprintability of Tor Onion Services | Datese: [Tik-Tok](https://zenodo.org/records/11631265) |
 | 2016 | CCS | Safely Measuring Tor | [Code](https://github.com/privcount/privcount) |
+
+# Visualization and Analysis
+------
+
+We provide both the raw data (CSV format) and visualization code for reproducing the analysis figures in our survey paper.
