@@ -98,9 +98,9 @@
 
 **cite** contains xxxx implementation for our [paper](xxxxx).  If you find this code useful in your research, please consider citing:
 
-@inproceedings{plummerCITE2018,
+	@inproceedings{xxxxx,
 	Author = {xxxx},
 	Title = {xxxx},
 	Booktitle  = {xxx},
 	Year = {20xx}
-}
+	}
