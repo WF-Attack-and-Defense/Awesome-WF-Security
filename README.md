@@ -89,7 +89,7 @@
 ------
 
 ## Distribution of Awesome Publications by Year
-![Distribution of Awesome Publications by Year](https://github.com/WF-Attack-and-Defense/Awesome-WF-Security/tree/main/imgs/AwesomeWFPaperStats.png)
+![Distribution of Awesome Publications by Year](https://github.com/WF-Attack-and-Defense/Awesome-WF-Security/blob/main/imgs/AwesomeWFPaperStats.png)
 
 ## Distribution of Categories by Journal/Conference and Year
 ![Distribution of Categories by Journal/Conference and Year](https://github.com/WF-Attack-and-Defense/Awesome-WF-Security/tree/main/imgs/AwesomeWFS.png)
