@@ -31,4 +31,5 @@ plt.legend(title="Category", bbox_to_anchor=(1.05, 1), loc='upper left')
 
 # Show the plot
 plt.tight_layout()
+#plt.savefig('imgs/AwesomeWFS.png', dpi=800)
 plt.show()
