@@ -83,7 +83,10 @@
 | 2017 | CCS | How Unique is Your .onion?: An Analysis of the Fingerprintability of Tor Onion Services | Datese: [Tik-Tok](https://zenodo.org/records/11631265) |
 | 2016 | CCS | Safely Measuring Tor | [Code](https://github.com/privcount/privcount) |
 
-# Visualization and Analysis
+# Publication Statistics and Analysis since 2015
+
+> We provide both the raw data (CSV format) and Publication Statistics code for reproducing the analysis figures.
 ------
 
-We provide both the raw data (CSV format) and visualization code for reproducing the analysis figures in our survey paper.
+## Distribution of Awesome Publications by Year
+![istribution of Awesome Publications by Year](https://github.com/WF-Attack-and-Defense/Awesome-WF-Security/imgs/AwesomeWFPaperStats.png)
