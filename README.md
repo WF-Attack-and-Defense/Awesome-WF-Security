@@ -85,8 +85,11 @@
 
 # Publication Statistics and Analysis since 2015
 
-> We provide both the raw data (CSV format) and Publication Statistics code for reproducing the analysis figures.
+> We provide the raw data (CSV format) and Publication Statistics code to reproduce the analysis figures.
 ------
 
 ## Distribution of Awesome Publications by Year
-![istribution of Awesome Publications by Year](https://github.com/WF-Attack-and-Defense/Awesome-WF-Security/imgs/AwesomeWFPaperStats.png)
+![Distribution of Awesome Publications by Year](https://github.com/WF-Attack-and-Defense/Awesome-WF-Security/tree/main/imgs/AwesomeWFPaperStats.png)
+
+## Distribution of Categories by Journal/Conference and Year
+![Distribution of Categories by Journal/Conference and Year](https://github.com/WF-Attack-and-Defense/Awesome-WF-Security/tree/main/imgs/AwesomeWFS.png)
