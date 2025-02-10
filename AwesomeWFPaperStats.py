@@ -34,4 +34,5 @@ plt.legend(title="Category", loc='upper left')
 
 # Show the plot
 plt.tight_layout()
+#plt.savefig('imgs/AwesomeWFPaperStats.png', dpi=800)
 plt.show()
