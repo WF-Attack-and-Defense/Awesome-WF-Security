@@ -45,7 +45,6 @@
 | RUDOLF | 2024 | TIFS | RUDOLF: An Efficient and Adaptive Defense Approach Against Website Fingerprinting Attacks Based on Soft Actor-Critic Algorithm | None |
 | ALERT | 2024 | INFOCOM | Trace-agnostic and Adversarial Training-resilient Website Fingerprinting Defense | None |
 | WFGuard | 2024 | INFOCOM | WFGuard: an Effective Fuzzing-testing-based Traffic Morphing Defense against Website Fingerprinting | None |
-| DeepSE-WF | 2023 | PETS | DeepSE-WF: Unified Security Estimation for Website Fingerprinting Defenses | [Code](https://github.com/veichta/DeepSE-WF) |
 | ACUP3 | 2023 | TIFS | Resisting DNN-Based Website Fingerprinting Attacks Enhanced by Adversarial Training | None |
 | RegularTor | 2022 | PETS | RegulaTor: A Straightforward Website Fingerprinting Defense | [Code](https://github.com/jkhollandjr/RegulaTor) |
 | Surakav | 2022 | S&P | Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense | Code: [WFD-Gan](https://github.com/websitefingerprinting/wfd-gan) [Surakav](https://github.com/websitefingerprinting/surakav-imp) |
@@ -75,6 +74,7 @@
 | 2024 | S&P | Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization | [Code](https://github.com/kxdkxd/Palette) |
 | 2024 | USENIX | Stop, Don't Click Here Anymore: Boosting Website Fingerprinting By Considering Sets of Subpages | None |
 | 2023 | S&P | SoK: A Critical Evaluation of Efficient Website Fingerprinting Defenses | [Code](https://github.com/critical-wf-sok/Efficient-Defense-Evaluation) |
+| 2023 | PETS | DeepSE-WF: Unified Security Estimation for Website Fingerprinting Defenses | [Code](https://github.com/veichta/DeepSE-WF) |
 | 2023 | PETS | Evaluating practical QUIC website fingerprinting defenses for the masses | [Code](https://github.com/spring-epfl/quic-wf-defenses) |
 | 2023 | PETS | Data-Explainable Website Fingerprinting with Network Simulation | [Dateset](https://explainwf-popets2023.github.io/data/) |
 | 2022 | USENIX | Online Website Fingerprinting: Evaluating Website Fingerprinting Attacks on Tor in the Real World | Code from [TF](https://github.com/triplet-fingerprinting/tf) |
