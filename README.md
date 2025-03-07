@@ -65,6 +65,7 @@
 | Walkie-Talkie | 2017 | USENIX | Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks | Code (Original link died): [Tik-Tok](https://github.com/msrocean/Tik_Tok) |
 | WFDA | 2017 | PETS | Website Fingerprinting Defenses at the Application Layer | [Code](https://github.com/camelids/ALPaCA) |
 | WFES | 2017 | PETS | Bayes, not Naïve: Security Bounds on Website Fingerprinting Defenses | [Code](https://github.com/gchers/wfes) |
+| WTF-PAD | 2016 | ESORICS | Toward an Efficient Website Fingerprinting Defense | [Code](https://github.com/wtfpad/wtfpad) |
 
 3. Website Fingerprinting Attacks/Defenses Measurement
 
