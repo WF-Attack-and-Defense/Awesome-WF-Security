@@ -40,7 +40,6 @@
 
 | Defenses | Year | Journal/Conference | Title | Source Code |
 |------|------|--------|--------------------------------------------------|---|
-| WFDefProxy | 2024 | TIFS | WFDefProxy: Real World Implementation and Evaluation of Website Fingerprinting Defenses | [Code](https://github.com/websitefingerprinting/wfdef) |
 | ERWF | 2024 | TIFS | Enhancing Resilience in Website Fingerprinting: Novel Adversary Strategies for Noisy Traffic Environments | [Code](https://github.com/guduin/wf) |
 | RUDOLF | 2024 | TIFS | RUDOLF: An Efficient and Adaptive Defense Approach Against Website Fingerprinting Attacks Based on Soft Actor-Critic Algorithm | None |
 | ALERT | 2024 | INFOCOM | Trace-agnostic and Adversarial Training-resilient Website Fingerprinting Defense | None |
@@ -71,6 +70,7 @@
 
 | Year | Journal/Conference | Title | Source Code |
 |------|--------|--------------------------------------------------|---|
+| 2024 | TIFS | WFDefProxy: Real World Implementation and Evaluation of Website Fingerprinting Defenses | [Code](https://github.com/websitefingerprinting/wfdef) |
 | 2024 | NDSS | On Precisely Detecting Censorship Circumvention in Real-World Networks | Code: [AWF](https://github.com/DistriNet/DLWF) and [DF](https://github.com/deep-fingerprinting/df) |
 | 2024 | S&P | Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization | [Code](https://github.com/kxdkxd/Palette) |
 | 2024 | USENIX | Stop, Don't Click Here Anymore: Boosting Website Fingerprinting By Considering Sets of Subpages | None |
