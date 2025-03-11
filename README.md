@@ -47,7 +47,6 @@
 | ACUP3 | 2023 | TIFS | Resisting DNN-Based Website Fingerprinting Attacks Enhanced by Adversarial Training | None |
 | RegularTor | 2022 | PETS | RegulaTor: A Straightforward Website Fingerprinting Defense | [Code](https://github.com/jkhollandjr/RegulaTor) |
 | Surakav | 2022 | S&P | Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense | Code: [WFD-Gan](https://github.com/websitefingerprinting/wfd-gan) [Surakav](https://github.com/websitefingerprinting/surakav-imp) |
-| DeepCoFFEA | 2022 | S&P | DeepCoFFEA: Improved Flow Correlation Attacks on Tor via Metric Learning and Amplification | [Code](https://github.com/traffic-analysis/deepcoffea) |
 | QCSD | 2022 | USENIX | QCSD: A QUIC Client-Side Website-Fingerprinting Defence Framework | [Code](https://github.com/jpcsmith/neqo-qcsd) |
 | snWF | 2022 | TIFS | snWF: Website Fingerprinting Attack by Ensembling the Snapshot of Deep Learning | None |
 | DLWFD | 2022 | INFOCOM | Towards an Efficient Defense against Deep Learning based Website Fingerprinting | None |
@@ -85,6 +84,12 @@
 | 2018 | PETS | Feature Selection for Website Fingerprinting | None |
 | 2017 | CCS | How Unique is Your .onion?: An Analysis of the Fingerprintability of Tor Onion Services | Datese: [Tik-Tok](https://zenodo.org/records/11631265) |
 | 2016 | CCS | Safely Measuring Tor | [Code](https://github.com/privcount/privcount) |
+
+4. Traffic flow Correlation
+| Defenses | Year | Journal/Conference | Title | Source Code |
+|------|------|--------|--------------------------------------------------|---|
+| DeepCoFFEA | 2022 | S&P | DeepCoFFEA: Improved Flow Correlation Attacks on Tor via Metric Learning and Amplification | [Code](https://github.com/traffic-analysis/deepcoffea) |
+| DeepCorr | 2018 | CCS | DeepCorr: Strong Flow Correlation Attacks on Tor Using Deep Learning | [Code](https://github.com/SPIN-UMass/DeepCorr) |
 
 # Publication Statistics and Analysis since 2015
 
