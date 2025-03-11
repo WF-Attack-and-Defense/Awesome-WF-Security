@@ -86,6 +86,7 @@
 | 2016 | CCS | Safely Measuring Tor | [Code](https://github.com/privcount/privcount) |
 
 4. Traffic flow Correlation
+
 | Defenses | Year | Journal/Conference | Title | Source Code |
 |------|------|--------|--------------------------------------------------|---|
 | DeepCoFFEA | 2022 | S&P | DeepCoFFEA: Improved Flow Correlation Attacks on Tor via Metric Learning and Amplification | [Code](https://github.com/traffic-analysis/deepcoffea) |
