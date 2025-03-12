@@ -51,7 +51,6 @@
 | snWF | 2022 | TIFS | snWF: Website Fingerprinting Attack by Ensembling the Snapshot of Deep Learning | None |
 | DLWFD | 2022 | INFOCOM | Towards an Efficient Defense against Deep Learning based Website Fingerprinting | None |
 | Minipatch | 2022 | TIFS | Minipatch: Undermining DNN-Based Website Fingerprinting With Adversarial Patches | [Code](https://github.com/website-fingerprinting/minipatch) | 
-| One-Page | 2021 | CCS | The One-Page Setting: A Higher Standard for Evaluating Website Fingerprinting Defenses | [Code](https://www.cs.sfu.ca/~taowang/wf/Wa-binary.zip) [Dataset](https://www.cs.sfu.ca/~taowang/wf/20000.zip) |
 | BLANKET| 2021 | USENIX | Defeating DNN-Based Traffic Analysis Systems in Real-Time With Blind Adversarial Perturbations | [Code](https://github.com/SPIN-UMass/BLANKET) |
 | Mockingbird | 2021 | TIFS | Mockingbird: Defending Against Deep-Learning-Based Website Fingerprinting Attacks With Adversarial Traces | [Code](https://github.com/msrocean/mockingbird/) |
 | DFD | 2020 | INFOCOM | DFD: Adversarial Learning-based Approach to Defend Against Website Fingerprinting | None |
@@ -78,6 +77,7 @@
 | 2023 | PETS | Evaluating practical QUIC website fingerprinting defenses for the masses | [Code](https://github.com/spring-epfl/quic-wf-defenses) |
 | 2023 | PETS | Data-Explainable Website Fingerprinting with Network Simulation | [Dateset](https://explainwf-popets2023.github.io/data/) |
 | 2022 | USENIX | Online Website Fingerprinting: Evaluating Website Fingerprinting Attacks on Tor in the Real World | Code from [TF](https://github.com/triplet-fingerprinting/tf) |
+| 2021 | CCS | The One-Page Setting: A Higher Standard for Evaluating Website Fingerprinting Defenses | [Code](https://www.cs.sfu.ca/~taowang/wf/Wa-binary.zip) [Dataset](https://www.cs.sfu.ca/~taowang/wf/20000.zip) |
 | 2020 | S&P | High Precision Open-World Website Fingerprinting | [Code](https://github.com/literaltao/openwf) |
 | 2018 | CCS | Measuring Information Leakage in Website Fingerprinting Attacks and Defenses | [Code](https://github.com/s0irrlor7m/InfoLeakWebsiteFingerprint) |
 | 2018 | CCS | Privacy-Preserving Dynamic Learning of Tor Network Traffic | [Code](https://tmodel-ccs2018.github.io/) |
