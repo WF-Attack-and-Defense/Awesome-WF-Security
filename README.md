@@ -13,6 +13,7 @@
 |------|------|--------|--------------------------------------------------|---|
 | MRCGCN | 2025 | TIFS | Multi-Level Resource-Coherented Graph Learning for Website Fingerprinting Attacks | None |
 | LASERBEAK | 2024 | TIFS | LASERBEAK: Evolving Website Fingerprinting Attacks with Attention and Multi-Channel Feature Representation | [Code](https://github.com/notem/Laserbeak-WF-Classifier) |
+| ERWF | 2024 | TIFS | Enhancing Resilience in Website Fingerprinting: Novel Adversary Strategies for Noisy Traffic Environments | [Code](https://github.com/guduin/wf) |
 | Holmes | 2024 | CCS | Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis | [Code](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) |
 | STC-WF | 2024 | TIFS | Inter-Flow Spatio-Temporal Correlation Analysis Based Website Fingerprinting Using Graph Neural Network | None |
 | Oscar | 2024 | CCS | Towards Fine-Grained Webpage Fingerprinting at Scale | [Code](https://zenodo.org/records/13383332) |
@@ -40,7 +41,6 @@
 
 | Defenses | Year | Journal/Conference | Title | Source Code |
 |------|------|--------|--------------------------------------------------|---|
-| ERWF | 2024 | TIFS | Enhancing Resilience in Website Fingerprinting: Novel Adversary Strategies for Noisy Traffic Environments | [Code](https://github.com/guduin/wf) |
 | RUDOLF | 2024 | TIFS | RUDOLF: An Efficient and Adaptive Defense Approach Against Website Fingerprinting Attacks Based on Soft Actor-Critic Algorithm | None |
 | ALERT | 2024 | INFOCOM | Trace-agnostic and Adversarial Training-resilient Website Fingerprinting Defense | None |
 | WFGuard | 2024 | INFOCOM | WFGuard: an Effective Fuzzing-testing-based Traffic Morphing Defense against Website Fingerprinting | None |
