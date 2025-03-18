@@ -41,6 +41,7 @@
 
 | Defenses | Year | Journal/Conference | Title | Source Code |
 |------|------|--------|--------------------------------------------------|---|
+| Palette | 2024 | S&P | Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization | [Code](https://github.com/kxdkxd/Palette) |
 | RUDOLF | 2024 | TIFS | RUDOLF: An Efficient and Adaptive Defense Approach Against Website Fingerprinting Attacks Based on Soft Actor-Critic Algorithm | None |
 | ALERT | 2024 | INFOCOM | Trace-agnostic and Adversarial Training-resilient Website Fingerprinting Defense | None |
 | WFGuard | 2024 | INFOCOM | WFGuard: an Effective Fuzzing-testing-based Traffic Morphing Defense against Website Fingerprinting | None |
@@ -70,7 +71,6 @@
 |------|--------|--------------------------------------------------|---|
 | 2024 | TIFS | WFDefProxy: Real World Implementation and Evaluation of Website Fingerprinting Defenses | [Code](https://github.com/websitefingerprinting/wfdef) |
 | 2024 | NDSS | On Precisely Detecting Censorship Circumvention in Real-World Networks | Code: [AWF](https://github.com/DistriNet/DLWF) and [DF](https://github.com/deep-fingerprinting/df) |
-| 2024 | S&P | Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization | [Code](https://github.com/kxdkxd/Palette) |
 | 2024 | USENIX | Stop, Don't Click Here Anymore: Boosting Website Fingerprinting By Considering Sets of Subpages | None |
 | 2023 | S&P | SoK: A Critical Evaluation of Efficient Website Fingerprinting Defenses | [Code](https://github.com/critical-wf-sok/Efficient-Defense-Evaluation) |
 | 2023 | PETS | DeepSE-WF: Unified Security Estimation for Website Fingerprinting Defenses | [Code](https://github.com/veichta/DeepSE-WF) |
