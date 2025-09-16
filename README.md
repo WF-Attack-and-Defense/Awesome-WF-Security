@@ -39,7 +39,7 @@
 | CUMUL | 2016 | NDSS | Website Fingerprinting at Internet Scale | [Code](https://github.com/lsvih/CUMUL) |
 | k-FP | 2016 | USENIX | k-fingerprinting: A Robust Scalable Website Fingerprinting Technique | [Code](https://github.com/jhayes14/k-FP) |
 | RATWF | 2016 | PETS | On Realistically Attacking Tor with Website Fingerprinting | [Code](https://www.cs.sfu.ca/~taowang/wf/index.html) |
-| Wang14 | 2014 | USENIX | Effective Attacks and Provable Defenses for Website Fingerprinting | [Code](https://github.com/kdsec/wangknn-dataset) |
+| Wang14 | 2014 | USENIX | Effective Attacks and Provable Defenses for Website Fingerprinting | [Code](https://www.cs.sfu.ca/~taowang/wf/index.html) | [Dataset](https://github.com/kdsec/wangknn-dataset) |
 
 2. Website Fingerprinting Defenses
 
