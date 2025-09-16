@@ -11,7 +11,7 @@
 
 | Acctacks| Year | Journal/Conference | Title | Source Code |
 |------|------|--------|--------------------------------------------------|---|
-| Swallow | 2025 | CCS | Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning | [code]([https://github.com/SJTU-dxw/CountMamba-WF](https://github.com/wujinhe0814/Swallow)) |
+| Swallow | 2025 | CCS | Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning | [code](https://github.com/wujinhe0814/Swallow) |
 | WTCM | 2025 | S&P | CountMamba: A Generalized Website Fingerprinting Attack via Coarse-Grained Representation and Fine-Grained Prediction | [code](https://github.com/SJTU-dxw/CountMamba-WF) |
 | MRCGCN | 2025 | TIFS | Multi-Level Resource-Coherented Graph Learning for Website Fingerprinting Attacks | None |
 | LASERBEAK | 2024 | TIFS | LASERBEAK: Evolving Website Fingerprinting Attacks with Attention and Multi-Channel Feature Representation | [Code](https://github.com/notem/Laserbeak-WF-Classifier) |
