@@ -43,6 +43,7 @@
 
 | Defenses | Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|---|---|
+| GAPDiS | 2025 | CCS | GAPDiS: Gradient-Assisted Perturbation Design via Sequence Editing for Website Fingerprinting Defense | NA | NA |
 | WF-A2D | 2025 | TIFS | WF-A2D: Enhancing Privacy With Asymmetric Adversarial Defense Against Website Fingerprinting | NA | NA |
 | Palette | 2024 | S&P | Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization | [Code](https://github.com/kxdkxd/Palette) |
 | RUDOLF | 2024 | TIFS | RUDOLF: An Efficient and Adaptive Defense Approach Against Website Fingerprinting Attacks Based on Soft Actor-Critic Algorithm | None |
