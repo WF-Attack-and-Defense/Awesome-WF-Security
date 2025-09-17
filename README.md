@@ -37,7 +37,7 @@
 | AWF | 2018 | NDSS | Automated Website Fingerprinting through Deep Learning | [Code](https://github.com/DistriNet/DLWF) |
 | WFA-PHMM | 2018 | TIFS | Website Fingerprinting Attack on Anonymity Networks Based on Profile Hidden Markov Model | None |
 | CUMUL | 2016 | NDSS | Website Fingerprinting at Internet Scale | [Code](https://github.com/lsvih/CUMUL) |
-| k-FP | 2016 | USENIX | k-fingerprinting: A Robust Scalable Website Fingerprinting Technique | [Code](https://github.com/jhayes14/k-FP) |
+| k-FP | 2016 | USENIX | k-fingerprinting: A Robust Scalable Website Fingerprinting Technique | [Code](https://github.com/jhayes14/k-FP) | [Dataset](https://drive.google.com/open?id=1S5ra--6m1m7ZliyvYsUsTehc6PcJhLjx) |
 | RATWF | 2016 | PETS | On Realistically Attacking Tor with Website Fingerprinting | [Code](https://www.cs.sfu.ca/~taowang/wf/index.html) |
 | Wang14 | 2014 | USENIX | Effective Attacks and Provable Defenses for Website Fingerprinting | [Code](https://www.cs.sfu.ca/~taowang/wf/index.html) | [Dataset](https://github.com/kdsec/wangknn-dataset) |
 
