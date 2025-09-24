@@ -1,5 +1,5 @@
 # Awesome Website Fingerprinting Attack and Defense Studies
-> A curated list of research works on website fingerprinting attacks and defenses since 2014. We will continue to maintain this project. Welcome expand this list by:
+> A curated list of research works on website fingerprinting attacks and defenses since 2014. We will continue to maintain this project. Welcome to expand this list by:
 > - Opening an issue or pull request
 > - Sending suggestions via email
 
@@ -24,13 +24,13 @@
 | SMC | 2024 | TIFS | An Adaptability-Enhanced Few-Shot Website Fingerprinting Attack Based on Collusion | [Code](https://github.com/Tanjingwen96/SMC) |
 | NetCLR | 2023 | CCS | Realistic Website Fingerprinting By Augmenting Network Traces | [Code](https://github.com/SPIN-UMass/Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces) |
 | TMWF | 2023 | CCS | Transformer-based Model for Multi-tab Website Fingerprinting Attack | [Code](https://github.com/jzx-bupt/TMWF) | [Dataset](https://github.com/jzx-bupt/TMWF.git) |
-| RF | 2023 | USENIX | Subverting Website Fingerprinting Defenses with Robust Traffic Representation | [Code](https://github.com/robust-fingerprinting/RF) |
+| RF | 2023 | USENIX | Subverting Website Fingerprinting Defenses with Robust Traffic Representation | [Code](https://github.com/robust-fingerprinting/RF) | [GitHub](https://github.com/robust-fingerprinting/RF) |
 | ARES | 2023 | S&P | Robust Multi-tab Website Fingerprinting Attacks in the Wild | [Code](https://github.com/Xinhao-Deng/Multitab-WF-Datasets) |
 | BAPM | 2021 | ACSAC | BAPM: Block Attention Profiling Model for Multi-tab Website Fingerprinting Attacks on Tor | None |
 | GANDaLF | 2021 | PETS | GANDaLF: GAN for Data-Limited Fingerprinting | [Code](https://github.com/traffic-analysis/gandalf) |
 | WO+WF | 2020 | PETS | Website Fingerprinting with Website Oracles | [Code](https://github.com/pylls/wfwo) |
 | Tik-Tok | 2020 | PETS | Tik-Tok: The Utility of Packet Timing in Website Fingerprinting Attacks | [Code](https://github.com/msrocean/Tik_Tok) |
-| TF | 2019 | CCS | Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning | [Code](https://github.com/triplet-fingerprinting/tf) |
+| TF | 2019 | CCS | Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning | [Code](https://github.com/triplet-fingerprinting/tf) | [GitHub]() |
 | Var-CNN | 2019 | PETS | Var-CNN: A Data-Efficient Website Fingerprinting Attack Based on Deep Learning | [Code](https://github.com/sanjit-bhat/Var-CNN) |
 | P1-FP | 2019 | PETS | p1-FP: Extraction, Classification, and Prediction of Website Fingerprints with Deep Learning | [Code](https://github.com/seeunoh2/pFP) |
 | DF | 2018 | CCS | Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning | [Code](https://github.com/deep-fingerprinting/df) | [Closed-World](https://1drv.ms/f/s!AkYL00xsdYhSgbMGnM38jait4lSAqg?e=97eOH3) [Open-World](https://1drv.ms/f/s!AkYL00xsdYhSgbMHnOFQMmgZgQR6wg?e=NLGaHW) |
@@ -66,7 +66,7 @@
 | HyWF | 2020 | PETS | Protecting against Website Fingerprinting with Multihoming | [Code](https://github.com/sebhenri/HyWF) |
 | WF-GAN | 2020 | ISCC | WF-GAN: Fighting Back Against Website Fingerprinting Attack Using Adversarial Learning | None |
 | DynaFlow | 2018 | WPES | DynaFlow: An Efficient Website Fingerprinting Defense Based on Dynamically-Adjusting Flows | [Code](https://github.com/davidboxboro/DynaFlow) |
-| Walkie-Talkie | 2017 | USENIX | Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks | Code (Original link died): [Tik-Tok](https://github.com/msrocean/Tik_Tok) |
+| Walkie-Talkie | 2017 | USENIX | Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks | Code (Original link died): [Tik-Tok](https://github.com/msrocean/Tik_Tok) | [Dataset](https://www.cs.sfu.ca/~taowang/wf/data/) |
 | WFDA | 2017 | PETS | Website Fingerprinting Defenses at the Application Layer | [Code](https://github.com/camelids/ALPaCA) |
 | WFES | 2017 | PETS | Bayes, not Naïve: Security Bounds on Website Fingerprinting Defenses | [Code](https://github.com/gchers/wfes) |
 | WTF-PAD | 2016 | ESORICS | Toward an Efficient Website Fingerprinting Defense | [Code](https://github.com/wtfpad/wtfpad) |
@@ -88,7 +88,7 @@
 | 2018 | CCS | Measuring Information Leakage in Website Fingerprinting Attacks and Defenses | [Code](https://github.com/s0irrlor7m/InfoLeakWebsiteFingerprint) |
 | 2018 | CCS | Privacy-Preserving Dynamic Learning of Tor Network Traffic | [Code](https://tmodel-ccs2018.github.io/) |
 | 2018 | PETS | Feature Selection for Website Fingerprinting | None |
-| 2017 | CCS | How Unique is Your .onion?: An Analysis of the Fingerprintability of Tor Onion Services | Datese: [Tik-Tok](https://zenodo.org/records/11631265) |
+| 2017 | CCS | How Unique is Your .onion?: An Analysis of the Fingerprintability of Tor Onion Services | Dataset: [Tik-Tok](https://zenodo.org/records/11631265) | 
 | 2016 | CCS | Safely Measuring Tor | [Code](https://github.com/privcount/privcount) |
 
 4. Traffic flow Correlation
