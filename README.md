@@ -13,12 +13,12 @@
 |------|------|--------|--------------------------------------------------|------|---|
 | Swallow | 2025 | CCS | Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning | [Code](https://github.com/wujinhe0814/Swallow) | [Dataset](https://zenodo.org/records/16607834) |
 | WTCM | 2025 | S&P | CountMamba: A Generalized Website Fingerprinting Attack via Coarse-Grained Representation and Fine-Grained Prediction | [Code](https://github.com/SJTU-dxw/CountMamba-WF) |
-| MRCGCN | 2025 | TIFS | Multi-Level Resource-Coherented Graph Learning for Website Fingerprinting Attacks | None |
+| MRCGCN | 2025 | TIFS | Multi-Level Resource-Coherented Graph Learning for Website Fingerprinting Attacks | NA | NA |
 | X-EPRINT | 2025 | INFOCOM | Cross-Environmental Website Fingerprinting | [Code](https://github.com/cry4tal1/xeprint) | [Dataset]() |
 | LASERBEAK | 2024 | TIFS | LASERBEAK: Evolving Website Fingerprinting Attacks with Attention and Multi-Channel Feature Representation | [Code](https://github.com/notem/Laserbeak-WF-Classifier) |
 | ERWF | 2024 | TIFS | Enhancing Resilience in Website Fingerprinting: Novel Adversary Strategies for Noisy Traffic Environments | [Code](https://github.com/guduin/wf) |
 | Holmes | 2024 | CCS | Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis | [Code](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) |
-| STC-WF | 2024 | TIFS | Inter-Flow Spatio-Temporal Correlation Analysis Based Website Fingerprinting Using Graph Neural Network | None |
+| STC-WF | 2024 | TIFS | Inter-Flow Spatio-Temporal Correlation Analysis Based Website Fingerprinting Using Graph Neural Network | NA | NA |
 | Oscar | 2024 | CCS | Towards Fine-Grained Webpage Fingerprinting at Scale | [Code](https://zenodo.org/records/13383332) |
 | RobustWF | 2024 | INFOCOM | Causality Correlation and Context Learning Aided Robust Lightweight Multi-Tab Website Fingerprinting Over Encrypted Tunnel | [Code](https://github.com/chenxiailian/robustweb) |
 | SMC | 2024 | TIFS | An Adaptability-Enhanced Few-Shot Website Fingerprinting Attack Based on Collusion | [Code](https://github.com/Tanjingwen96/SMC) |
@@ -26,7 +26,7 @@
 | TMWF | 2023 | CCS | Transformer-based Model for Multi-tab Website Fingerprinting Attack | [Code](https://github.com/jzx-bupt/TMWF) | [Dataset](https://github.com/jzx-bupt/TMWF.git) |
 | RF | 2023 | USENIX | Subverting Website Fingerprinting Defenses with Robust Traffic Representation | [Code](https://github.com/robust-fingerprinting/RF) | [GitHub](https://github.com/robust-fingerprinting/RF) |
 | ARES | 2023 | S&P | Robust Multi-tab Website Fingerprinting Attacks in the Wild | [Code](https://github.com/Xinhao-Deng/Multitab-WF-Datasets) |
-| BAPM | 2021 | ACSAC | BAPM: Block Attention Profiling Model for Multi-tab Website Fingerprinting Attacks on Tor | None |
+| BAPM | 2021 | ACSAC | BAPM: Block Attention Profiling Model for Multi-tab Website Fingerprinting Attacks on Tor | NA | NA |
 | GANDaLF | 2021 | PETS | GANDaLF: GAN for Data-Limited Fingerprinting | [Code](https://github.com/traffic-analysis/gandalf) |
 | WO+WF | 2020 | PETS | Website Fingerprinting with Website Oracles | [Code](https://github.com/pylls/wfwo) |
 | Tik-Tok | 2020 | PETS | Tik-Tok: The Utility of Packet Timing in Website Fingerprinting Attacks | [Code](https://github.com/msrocean/Tik_Tok) |
