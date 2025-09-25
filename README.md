@@ -49,8 +49,8 @@
 | WF-A2D | 2025 | TIFS | WF-A2D: Enhancing Privacy With Asymmetric Adversarial Defense Against Website Fingerprinting | NA | NA |
 | Palette | 2024 | S&P | Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization | [Code](https://github.com/kxdkxd/Palette) |
 | RUDOLF | 2024 | TIFS | RUDOLF: An Efficient and Adaptive Defense Approach Against Website Fingerprinting Attacks Based on Soft Actor-Critic Algorithm | None |
-| ALERT | 2024 | INFOCOM | Trace-agnostic and Adversarial Training-resilient Website Fingerprinting Defense | None |
-| WFGuard | 2024 | INFOCOM | WFGuard: an Effective Fuzzing-testing-based Traffic Morphing Defense against Website Fingerprinting | None |
+| ALERT | 2024 | INFOCOM | Trace-agnostic and Adversarial Training-resilient Website Fingerprinting Defense | NA | NA |
+| WFGuard | 2024 | INFOCOM | WFGuard: an Effective Fuzzing-testing-based Traffic Morphing Defense against Website Fingerprinting | NA | NA |
 | ACUP3 | 2023 | TIFS | Resisting DNN-Based Website Fingerprinting Attacks Enhanced by Adversarial Training | None |
 | RegularTor | 2022 | PETS | RegulaTor: A Straightforward Website Fingerprinting Defense | [Code](https://github.com/jkhollandjr/RegulaTor) |
 | Surakav | 2022 | S&P | Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense | Code: [WFD-Gan](https://github.com/websitefingerprinting/wfd-gan) [Surakav](https://github.com/websitefingerprinting/surakav-imp) |
@@ -60,11 +60,11 @@
 | Minipatch | 2022 | TIFS | Minipatch: Undermining DNN-Based Website Fingerprinting With Adversarial Patches | [Code](https://github.com/website-fingerprinting/minipatch) | 
 | BLANKET| 2021 | USENIX | Defeating DNN-Based Traffic Analysis Systems in Real-Time With Blind Adversarial Perturbations | [Code](https://github.com/SPIN-UMass/BLANKET) |
 | Mockingbird | 2021 | TIFS | Mockingbird: Defending Against Deep-Learning-Based Website Fingerprinting Attacks With Adversarial Traces | [Code](https://github.com/msrocean/mockingbird/) |
-| DFD | 2020 | INFOCOM | DFD: Adversarial Learning-based Approach to Defend Against Website Fingerprinting | None |
+| DFD | 2020 | INFOCOM | DFD: Adversarial Learning-based Approach to Defend Against Website Fingerprinting | NA | NA |
 | FRONT and GLUE| 2020 | USENIX | Zero-delay Lightweight Defenses against Website Fingerprinting | [Code](https://github.com/websitefingerprinting/WebsiteFingerprinting/) |
 | TrafficSliver | 2020 | CCS | TrafficSliver: Fighting Website Fingerprinting Attacks with Traffic Splitting | [Code](https://github.com/TrafficSliver) |
 | HyWF | 2020 | PETS | Protecting against Website Fingerprinting with Multihoming | [Code](https://github.com/sebhenri/HyWF) |
-| WF-GAN | 2020 | ISCC | WF-GAN: Fighting Back Against Website Fingerprinting Attack Using Adversarial Learning | None |
+| WF-GAN | 2020 | ISCC | WF-GAN: Fighting Back Against Website Fingerprinting Attack Using Adversarial Learning | NA | NA |
 | DynaFlow | 2018 | WPES | DynaFlow: An Efficient Website Fingerprinting Defense Based on Dynamically-Adjusting Flows | [Code](https://github.com/davidboxboro/DynaFlow) |
 | Walkie-Talkie | 2017 | USENIX | Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks | Code (Original link died): [Tik-Tok](https://github.com/msrocean/Tik_Tok) | [Dataset](https://www.cs.sfu.ca/~taowang/wf/data/) |
 | WFDA | 2017 | PETS | Website Fingerprinting Defenses at the Application Layer | [Code](https://github.com/camelids/ALPaCA) |
