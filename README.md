@@ -48,15 +48,15 @@
 | GAPDiS | 2025 | CCS | GAPDiS: Gradient-Assisted Perturbation Design via Sequence Editing for Website Fingerprinting Defense | NA | NA |
 | WF-A2D | 2025 | TIFS | WF-A2D: Enhancing Privacy With Asymmetric Adversarial Defense Against Website Fingerprinting | NA | NA |
 | Palette | 2024 | S&P | Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization | [Code](https://github.com/kxdkxd/Palette) |
-| RUDOLF | 2024 | TIFS | RUDOLF: An Efficient and Adaptive Defense Approach Against Website Fingerprinting Attacks Based on Soft Actor-Critic Algorithm | None |
+| RUDOLF | 2024 | TIFS | RUDOLF: An Efficient and Adaptive Defense Approach Against Website Fingerprinting Attacks Based on Soft Actor-Critic Algorithm | NA | NA |
 | ALERT | 2024 | INFOCOM | Trace-agnostic and Adversarial Training-resilient Website Fingerprinting Defense | NA | NA |
 | WFGuard | 2024 | INFOCOM | WFGuard: an Effective Fuzzing-testing-based Traffic Morphing Defense against Website Fingerprinting | NA | NA |
-| ACUP3 | 2023 | TIFS | Resisting DNN-Based Website Fingerprinting Attacks Enhanced by Adversarial Training | None |
+| ACUP3 | 2023 | TIFS | Resisting DNN-Based Website Fingerprinting Attacks Enhanced by Adversarial Training | NA | NA |
 | RegularTor | 2022 | PETS | RegulaTor: A Straightforward Website Fingerprinting Defense | [Code](https://github.com/jkhollandjr/RegulaTor) |
 | Surakav | 2022 | S&P | Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense | Code: [WFD-Gan](https://github.com/websitefingerprinting/wfd-gan) [Surakav](https://github.com/websitefingerprinting/surakav-imp) |
 | QCSD | 2022 | USENIX | QCSD: A QUIC Client-Side Website-Fingerprinting Defence Framework | [Code](https://github.com/jpcsmith/neqo-qcsd) |
-| snWF | 2022 | TIFS | snWF: Website Fingerprinting Attack by Ensembling the Snapshot of Deep Learning | None |
-| DLWFD | 2022 | INFOCOM | Towards an Efficient Defense against Deep Learning based Website Fingerprinting | None |
+| snWF | 2022 | TIFS | snWF: Website Fingerprinting Attack by Ensembling the Snapshot of Deep Learning | NA | NA |
+| DLWFD | 2022 | INFOCOM | Towards an Efficient Defense against Deep Learning based Website Fingerprinting | NA | NA |
 | Minipatch | 2022 | TIFS | Minipatch: Undermining DNN-Based Website Fingerprinting With Adversarial Patches | [Code](https://github.com/website-fingerprinting/minipatch) | 
 | BLANKET| 2021 | USENIX | Defeating DNN-Based Traffic Analysis Systems in Real-Time With Blind Adversarial Perturbations | [Code](https://github.com/SPIN-UMass/BLANKET) |
 | Mockingbird | 2021 | TIFS | Mockingbird: Defending Against Deep-Learning-Based Website Fingerprinting Attacks With Adversarial Traces | [Code](https://github.com/msrocean/mockingbird/) |
