@@ -49,7 +49,7 @@
 |------|------|--------|--------------------------------------------------|---|---|
 | GAPDiS | 2025 | CCS | GAPDiS: Gradient-Assisted Perturbation Design via Sequence Editing for Website Fingerprinting Defense | NA | NA |
 | WF-A2D | 2025 | TIFS | WF-A2D: Enhancing Privacy With Asymmetric Adversarial Defense Against Website Fingerprinting | NA | NA |
-| Palette | 2024 | S&P | Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization | [Code](https://github.com/kxdkxd/Palette) |
+| Palette | 2024 | S&P | Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization | [Code](https://github.com/kxdkxd/Palette) | [Dataset](https://github.com/kxdkxd/Palette) |
 | RUDOLF | 2024 | TIFS | RUDOLF: An Efficient and Adaptive Defense Approach Against Website Fingerprinting Attacks Based on Soft Actor-Critic Algorithm | NA | NA |
 | ALERT | 2024 | INFOCOM | Trace-agnostic and Adversarial Training-resilient Website Fingerprinting Defense | NA | NA |
 | WFGuard | 2024 | INFOCOM | WFGuard: an Effective Fuzzing-testing-based Traffic Morphing Defense against Website Fingerprinting | NA | NA |
@@ -59,13 +59,13 @@
 | QCSD | 2022 | USENIX | QCSD: A QUIC Client-Side Website-Fingerprinting Defence Framework | [Code](https://github.com/jpcsmith/neqo-qcsd) |
 | snWF | 2022 | TIFS | snWF: Website Fingerprinting Attack by Ensembling the Snapshot of Deep Learning | NA | NA |
 | DLWFD | 2022 | INFOCOM | Towards an Efficient Defense against Deep Learning based Website Fingerprinting | NA | NA |
-| Minipatch | 2022 | TIFS | Minipatch: Undermining DNN-Based Website Fingerprinting With Adversarial Patches | [Code](https://github.com/website-fingerprinting/minipatch) | 
-| BLANKET| 2021 | USENIX | Defeating DNN-Based Traffic Analysis Systems in Real-Time With Blind Adversarial Perturbations | [Code](https://github.com/SPIN-UMass/BLANKET) |
-| Mockingbird | 2021 | TIFS | Mockingbird: Defending Against Deep-Learning-Based Website Fingerprinting Attacks With Adversarial Traces | [Code](https://github.com/msrocean/mockingbird/) |
+| Minipatch | 2022 | TIFS | Minipatch: Undermining DNN-Based Website Fingerprinting With Adversarial Patches | [Code](https://github.com/website-fingerprinting/minipatch) | [Dataset](https://github.com/website-fingerprinting/minipatch) |
+| BLANKET| 2021 | USENIX | Defeating DNN-Based Traffic Analysis Systems in Real-Time With Blind Adversarial Perturbations | [Code](https://github.com/SPIN-UMass/BLANKET) | Ref |
+| Mockingbird | 2021 | TIFS | Mockingbird: Defending Against Deep-Learning-Based Website Fingerprinting Attacks With Adversarial Traces | [Code](https://github.com/msrocean/mockingbird/) | [Dataset](https://osf.io/fgrn7/files/osfstorage) |
 | DFD | 2020 | INFOCOM | DFD: Adversarial Learning-based Approach to Defend Against Website Fingerprinting | NA | NA |
-| FRONT and GLUE| 2020 | USENIX | Zero-delay Lightweight Defenses against Website Fingerprinting | [Code](https://github.com/websitefingerprinting/WebsiteFingerprinting/) |
-| TrafficSliver | 2020 | CCS | TrafficSliver: Fighting Website Fingerprinting Attacks with Traffic Splitting | [Code](https://github.com/TrafficSliver) |
-| HyWF | 2020 | PETS | Protecting against Website Fingerprinting with Multihoming | [Code](https://github.com/sebhenri/HyWF) |
+| FRONT and GLUE| 2020 | USENIX | Zero-delay Lightweight Defenses against Website Fingerprinting | [Code](https://github.com/websitefingerprinting/WebsiteFingerprinting/) | [Dataset](https://www.cs.sfu.ca/~taowang/wf/20000.zip) |
+| TrafficSliver | 2020 | CCS | TrafficSliver: Fighting Website Fingerprinting Attacks with Traffic Splitting | [Code](https://github.com/TrafficSliver) | NA |
+| HyWF | 2020 | PETS | Protecting against Website Fingerprinting with Multihoming | [Code](https://github.com/sebhenri/HyWF) | [Dataset](https://github.com/sebhenri/HyWF) |
 | WF-GAN | 2020 | ISCC | WF-GAN: Fighting Back Against Website Fingerprinting Attack Using Adversarial Learning | NA | NA |
 | DynaFlow | 2018 | WPES | DynaFlow: An Efficient Website Fingerprinting Defense Based on Dynamically-Adjusting Flows | [Code](https://github.com/davidboxboro/DynaFlow) | [Dataset](http://people.csail.mit.edu/kwonal/batch-primes.zip) |
 | Walkie-Talkie | 2017 | USENIX | Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks | Code (Original link died): [Tik-Tok](https://github.com/msrocean/Tik_Tok) | [Dataset](https://www.cs.sfu.ca/~taowang/wf/data/) |
