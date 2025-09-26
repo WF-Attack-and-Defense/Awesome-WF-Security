@@ -15,7 +15,7 @@
 | WTCM | 2025 | S&P | CountMamba: A Generalized Website Fingerprinting Attack via Coarse-Grained Representation and Fine-Grained Prediction | [Code](https://github.com/SJTU-dxw/CountMamba-WF) |
 | MRCGCN | 2025 | TIFS | Multi-Level Resource-Coherented Graph Learning for Website Fingerprinting Attacks | NA | NA |
 | X-EPRINT | 2025 | INFOCOM | Cross-Environmental Website Fingerprinting | [Code](https://github.com/cry4tal1/xeprint) | [Dataset](https://drive.google.com/file/d/1OuHoMh2QmLg5k1ogJROGkTbtgGeVexbT/view?usp=sharing) |
-| LASERBEAK | 2024 | TIFS | LASERBEAK: Evolving Website Fingerprinting Attacks with Attention and Multi-Channel Feature Representation | [Code](https://github.com/notem/Laserbeak-WF-Classifier) |
+| LASERBEAK | 2024 | TIFS | LASERBEAK: Evolving Website Fingerprinting Attacks with Attention and Multi-Channel Feature Representation | [Code](https://github.com/notem/Laserbeak-WF-Classifier) | [Dataset](https://drive.google.com/drive/folders/1cRIujmDFUpVD0rA0U92bxeGaq5DMlzFm?usp=drive_link) |
 | ERWF | 2024 | TIFS | Enhancing Resilience in Website Fingerprinting: Novel Adversary Strategies for Noisy Traffic Environments | [Code](https://github.com/guduin/wf) |
 | Holmes | 2024 | CCS | Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis | [Code](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) |
 | STC-WF | 2024 | TIFS | Inter-Flow Spatio-Temporal Correlation Analysis Based Website Fingerprinting Using Graph Neural Network | NA | NA |
