@@ -29,7 +29,7 @@
 | BAPM | 2021 | ACSAC | BAPM: Block Attention Profiling Model for Multi-tab Website Fingerprinting Attacks on Tor | NA | NA |
 | GANDaLF | 2021 | PETS | GANDaLF: GAN for Data-Limited Fingerprinting | [Code](https://github.com/traffic-analysis/gandalf) | [Dataset](https://github.com/traffic-analysis/gandalf) |
 | WO+WF | 2020 | PETS | Website Fingerprinting with Website Oracles | [Code](https://github.com/pylls/wfwo) | [Dataset](https://github.com/pylls/wfwo) |
-| Tik-Tok | 2020 | PETS | Tik-Tok: The Utility of Packet Timing in Website Fingerprinting Attacks | [Code](https://github.com/msrocean/Tik_Tok) |
+| Tik-Tok | 2020 | PETS | Tik-Tok: The Utility of Packet Timing in Website Fingerprinting Attacks | [Code](https://github.com/msrocean/Tik_Tok) | [Dataset](https://github.com/msrocean/Tik_Tok) |
 | TF | 2019 | CCS | Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning | [Code](https://github.com/triplet-fingerprinting/tf) | [GitHub]() |
 | Var-CNN | 2019 | PETS | Var-CNN: A Data-Efficient Website Fingerprinting Attack Based on Deep Learning | [Code](https://github.com/sanjit-bhat/Var-CNN) |
 | P1-FP | 2019 | PETS | p1-FP: Extraction, Classification, and Prediction of Website Fingerprints with Deep Learning | [Code](https://github.com/seeunoh2/pFP) |
