@@ -67,10 +67,10 @@
 | TrafficSliver | 2020 | CCS | TrafficSliver: Fighting Website Fingerprinting Attacks with Traffic Splitting | [Code](https://github.com/TrafficSliver) |
 | HyWF | 2020 | PETS | Protecting against Website Fingerprinting with Multihoming | [Code](https://github.com/sebhenri/HyWF) |
 | WF-GAN | 2020 | ISCC | WF-GAN: Fighting Back Against Website Fingerprinting Attack Using Adversarial Learning | NA | NA |
-| DynaFlow | 2018 | WPES | DynaFlow: An Efficient Website Fingerprinting Defense Based on Dynamically-Adjusting Flows | [Code](https://github.com/davidboxboro/DynaFlow) |
+| DynaFlow | 2018 | WPES | DynaFlow: An Efficient Website Fingerprinting Defense Based on Dynamically-Adjusting Flows | [Code](https://github.com/davidboxboro/DynaFlow) | [Dataset](http://people.csail.mit.edu/kwonal/batch-primes.zip) |
 | Walkie-Talkie | 2017 | USENIX | Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks | Code (Original link died): [Tik-Tok](https://github.com/msrocean/Tik_Tok) | [Dataset](https://www.cs.sfu.ca/~taowang/wf/data/) |
-| WFDA | 2017 | PETS | Website Fingerprinting Defenses at the Application Layer | [Code](https://github.com/camelids/ALPaCA) |
-| WFES | 2017 | PETS | Bayes, not Naïve: Security Bounds on Website Fingerprinting Defenses | [Code](https://github.com/gchers/wfes) |
+| WFDA | 2017 | PETS | Website Fingerprinting Defenses at the Application Layer | [Code](https://github.com/camelids/ALPaCA) | [Dataset](https://github.com/camelids/ALPaCA) |
+| WFES | 2017 | PETS | Bayes, not Naïve: Security Bounds on Website Fingerprinting Defenses | [Code](https://github.com/gchers/wfes) | Ref |
 | WTF-PAD | 2016 | ESORICS | Toward an Efficient Website Fingerprinting Defense | [Code](https://github.com/wtfpad/wtfpad) | [Dataset](https://dart.cse.kau.se/thebasketcase/ape/) |
 
 3. Website Fingerprinting Attacks/Defenses Measurement
