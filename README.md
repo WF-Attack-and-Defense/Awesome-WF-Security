@@ -27,7 +27,7 @@
 | RF | 2023 | USENIX | Subverting Website Fingerprinting Defenses with Robust Traffic Representation | [Code](https://github.com/robust-fingerprinting/RF) | [GitHub](https://github.com/robust-fingerprinting/RF) |
 | ARES | 2023 | S&P | Robust Multi-tab Website Fingerprinting Attacks in the Wild | [Code](https://github.com/Xinhao-Deng/Multitab-WF-Datasets) | [Holmes](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) |
 | BAPM | 2021 | ACSAC | BAPM: Block Attention Profiling Model for Multi-tab Website Fingerprinting Attacks on Tor | NA | NA |
-| GANDaLF | 2021 | PETS | GANDaLF: GAN for Data-Limited Fingerprinting | [Code](https://github.com/traffic-analysis/gandalf) |
+| GANDaLF | 2021 | PETS | GANDaLF: GAN for Data-Limited Fingerprinting | [Code](https://github.com/traffic-analysis/gandalf) | [Dataset](https://github.com/traffic-analysis/gandalf) |
 | WO+WF | 2020 | PETS | Website Fingerprinting with Website Oracles | [Code](https://github.com/pylls/wfwo) | [Dataset](https://github.com/pylls/wfwo) |
 | Tik-Tok | 2020 | PETS | Tik-Tok: The Utility of Packet Timing in Website Fingerprinting Attacks | [Code](https://github.com/msrocean/Tik_Tok) |
 | TF | 2019 | CCS | Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning | [Code](https://github.com/triplet-fingerprinting/tf) | [GitHub]() |
