@@ -34,7 +34,7 @@
 | Tik-Tok | 2020 | PETS | Tik-Tok: The Utility of Packet Timing in Website Fingerprinting Attacks | [Code](https://github.com/msrocean/Tik_Tok) | [Dataset](https://github.com/msrocean/Tik_Tok) |
 | TF | 2019 | CCS | Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning | [Code](https://github.com/triplet-fingerprinting/tf) | [GitHub]() |
 | Var-CNN | 2019 | PETS | Var-CNN: A Data-Efficient Website Fingerprinting Attack Based on Deep Learning | [Code](https://github.com/sanjit-bhat/Var-CNN) | Ref |
-| P1-FP | 2019 | PETS | p1-FP: Extraction, Classification, and Prediction of Website Fingerprints with Deep Learning | [Code](https://github.com/seeunoh2/pFP) |
+| P1-FP | 2019 | PETS | p1-FP: Extraction, Classification, and Prediction of Website Fingerprints with Deep Learning | [Code](https://github.com/seeunoh2/pFP) | NA |
 | DF | 2018 | CCS | Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning | [Code](https://github.com/deep-fingerprinting/df) | [Closed-World](https://1drv.ms/f/s!AkYL00xsdYhSgbMGnM38jait4lSAqg?e=97eOH3) [Open-World](https://1drv.ms/f/s!AkYL00xsdYhSgbMHnOFQMmgZgQR6wg?e=NLGaHW) |
 | AWF | 2018 | NDSS | Automated Website Fingerprinting through Deep Learning | [Code](https://github.com/DistriNet/DLWF) | [Dataset](https://github.com/DistriNet/DLWF) |
 | WFA-PHMM | 2018 | TIFS | Website Fingerprinting Attack on Anonymity Networks Based on Profile Hidden Markov Model | NA | NA |
