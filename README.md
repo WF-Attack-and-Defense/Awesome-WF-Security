@@ -79,7 +79,7 @@
 |------|--------|--------------------------------------------------|---|
 | 2024 | TIFS | WFDefProxy: Real World Implementation and Evaluation of Website Fingerprinting Defenses | [Code](https://github.com/websitefingerprinting/wfdef) |
 | 2024 | NDSS | On Precisely Detecting Censorship Circumvention in Real-World Networks | Code: [AWF](https://github.com/DistriNet/DLWF) and [DF](https://github.com/deep-fingerprinting/df) |
-| 2024 | USENIX | Stop, Don't Click Here Anymore: Boosting Website Fingerprinting By Considering Sets of Subpages | None |
+| 2024 | USENIX | Stop, Don't Click Here Anymore: Boosting Website Fingerprinting By Considering Sets of Subpages | NA |
 | 2023 | S&P | SoK: A Critical Evaluation of Efficient Website Fingerprinting Defenses | [Code](https://github.com/critical-wf-sok/Efficient-Defense-Evaluation) |
 | 2023 | PETS | DeepSE-WF: Unified Security Estimation for Website Fingerprinting Defenses | [Code](https://github.com/veichta/DeepSE-WF) |
 | 2023 | PETS | Evaluating practical QUIC website fingerprinting defenses for the masses | [Code](https://github.com/spring-epfl/quic-wf-defenses) |
@@ -89,7 +89,7 @@
 | 2020 | S&P | High Precision Open-World Website Fingerprinting | [Code](https://github.com/literaltao/openwf) |
 | 2018 | CCS | Measuring Information Leakage in Website Fingerprinting Attacks and Defenses | [Code](https://github.com/s0irrlor7m/InfoLeakWebsiteFingerprint) |
 | 2018 | CCS | Privacy-Preserving Dynamic Learning of Tor Network Traffic | [Code](https://tmodel-ccs2018.github.io/) |
-| 2018 | PETS | Feature Selection for Website Fingerprinting | None |
+| 2018 | PETS | Feature Selection for Website Fingerprinting | NA |
 | 2017 | CCS | How Unique is Your .onion?: An Analysis of the Fingerprintability of Tor Onion Services | Dataset: [Tik-Tok](https://zenodo.org/records/11631265) | 
 | 2016 | CCS | Safely Measuring Tor | [Code](https://github.com/privcount/privcount) |
 
@@ -113,7 +113,7 @@
 
 # Citation
 
-**cite** contains xxxx implementation for our [paper](xxxxx).  If you find this code useful in your research, please consider citing:
+**Cite** contains xxxx implementation for our [paper](xxxxx).  If you find this survey useful in your research, please consider citing:
 
 	@inproceedings{xxxxx,
 	Author = {xxxx},
