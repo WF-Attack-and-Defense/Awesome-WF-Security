@@ -118,9 +118,12 @@
 
 **Cite** contains xxxx implementation for our [paper](xxxxx).  If you find this survey useful in your research, please consider citing:
 
-	@inproceedings{xxxxx,
-	Author = {xxxx},
-	Title = {xxxx},
-	Booktitle  = {xxx},
-	Year = {20xx}
-	}
+	@misc{cui2025comprehensivesurveywebsitefingerprinting,
+      title={A Comprehensive Survey of Website Fingerprinting Attacks and Defenses in Tor: Advances and Open Challenges}, 
+      author={Yuwen Cui and Guangjing Wang and Khanh Vu and Kai Wei and Kehan Shen and Zhengyuan Jiang and Xiao Han and Ning Wang and Zhuo Lu and Yao Liu},
+      year={2025},
+      eprint={2510.11804},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2510.11804}, 
+    }
