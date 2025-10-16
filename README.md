@@ -7,7 +7,7 @@
 
 # Citation
 
-**Cite** contains xxxx implementation for our [paper](https://arxiv.org/abs/2510.11804).  If you find this survey useful in your research, please consider citing:
+**Cite** If you find this survey [paper](https://arxiv.org/abs/2510.11804) useful in your research, please consider citing:
 
 	@misc{cui2025comprehensivesurveywebsitefingerprinting,
       title={A Comprehensive Survey of Website Fingerprinting Attacks and Defenses in Tor: Advances and Open Challenges}, 
