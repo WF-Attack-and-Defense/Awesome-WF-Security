@@ -29,6 +29,8 @@
 |------|------|--------|--------------------------------------------------|------|---|
 | Swallow | 2025 | CCS | Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning | [Code](https://github.com/wujinhe0814/Swallow) | [Dataset](https://zenodo.org/records/16607834) |
 | WFCAT | 2025 | TDSC | WFCAT: Augmenting Website Fingerprinting with Channel-wise Attention on Timing Features | NA | NA |
+| FSWF | 2025 | TDSC | Few-Shot Website Fingerprinting With Distribution Calibration | NA | NA |
+| DQF | 2025 | TDSC | Toward an Effective Few-Shot Website Fingerprinting Attack With Quadruplet Networks and Deep Local Fingerprinting Features | NA | NA |
 | WTCM | 2025 | S&P | CountMamba: A Generalized Website Fingerprinting Attack via Coarse-Grained Representation and Fine-Grained Prediction | [Code](https://github.com/SJTU-dxw/CountMamba-WF) | [Dataset](https://zenodo.org/records/14195051) |
 | MRCGCN | 2025 | TIFS | Multi-Level Resource-Coherented Graph Learning for Website Fingerprinting Attacks | NA | NA |
 | X-EPRINT | 2025 | INFOCOM | Cross-Environmental Website Fingerprinting | [Code](https://github.com/cry4tal1/xeprint) | [Dataset](https://drive.google.com/file/d/1OuHoMh2QmLg5k1ogJROGkTbtgGeVexbT/view?usp=sharing) |
