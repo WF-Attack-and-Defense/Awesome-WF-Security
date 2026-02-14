@@ -25,7 +25,7 @@
 
 1. Website Fingerprinting Attacks
 
-| Acctacks| Year | Journal/Conference | Title | Source Code | Dataset |
+| Acctacks| Year | Journal/<br>Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|------|---|
 | CELLSHIFT | 2026 | NDSS | CELLSHIFT: RTT-Aware Trace Transduction for Real-World Website Fingerprinting | [Code](https://github.com/robgjansen/cellshift) | [Dataset](https://zenodo.org/records/10869889) |
 | Proteus | 2026 | NDSS | Enhancing Website Fingerprinting Attacks against Traffic Drift | [Code](https://github.com/Xinhao-Deng/Adaptive-WF-Attack) | [Dataset](https://drive.google.com/drive/folders/1bAqAvvDrY2wrY4EU-Rxm9mv9hsIvKwGk) |
