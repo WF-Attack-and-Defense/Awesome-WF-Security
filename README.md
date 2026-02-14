@@ -27,6 +27,7 @@
 
 | Acctacks| Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|------|---|
+| Proteus | 2026 | NDSS | Enhancing Website Fingerprinting Attacks against Traffic Drift | [Code](https://github.com/Xinhao-Deng/Adaptive-WF-Attack) | [Dataset](https://drive.google.com/drive/folders/1bAqAvvDrY2wrY4EU-Rxm9mv9hsIvKwGk) |
 | Swallow | 2025 | CCS | Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning | [Code](https://github.com/wujinhe0814/Swallow) | [Dataset](https://zenodo.org/records/16607834) |
 | WFCAT | 2025 | TDSC | WFCAT: Augmenting Website Fingerprinting with Channel-wise Attention on Timing Features | NA | NA |
 | FSWF | 2025 | TDSC | Few-Shot Website Fingerprinting With Distribution Calibration | NA | NA |
@@ -66,6 +67,7 @@
 
 | Defenses | Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|---|---|
+| FRUGAL | 2026 | NDSS | Cease at the Ultimate Goodness: Towards Efficient Website Fingerprinting Defense via Iterative Mutual Information Minimization | [Code](https://github.com/Junowww/FRUGAL-ndss.git) | [Dataset](https://github.com/Junowww/FRUGAL-ndss.git) |
 | GAPDiS | 2025 | CCS | GAPDiS: Gradient-Assisted Perturbation Design via Sequence Editing for Website Fingerprinting Defense | [Code](https://github.com/ByskyXie/GAPDiS) | Ref |
 | WF-A2D | 2025 | TIFS | WF-A2D: Enhancing Privacy With Asymmetric Adversarial Defense Against Website Fingerprinting | NA | NA |
 | Palette | 2024 | S&P | Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization | [Code](https://github.com/kxdkxd/Palette) | [Dataset](https://github.com/kxdkxd/Palette) |
