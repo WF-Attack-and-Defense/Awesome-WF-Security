@@ -27,6 +27,7 @@
 
 | Acctacks| Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|------|---|
+| STMWF | 2026 | TIFS | STMWF: Multi-Tab Website Fingerprinting via Spatial-Temporal Sequence Analysis | [Code](https://github.com/Lwsy123/spatial-temporal-attack/) | [Dataset](https://drive.google.com/drive/folders/1J95UaR3_b_hEg1HX3OKS9Nc22Vg5zWYo?usp=sharing) |
 | CELLSHIFT | 2026 | NDSS | CELLSHIFT: RTT-Aware Trace Transduction for Real-World Website Fingerprinting | [Code](https://github.com/robgjansen/cellshift) | [Dataset](https://zenodo.org/records/10869889) |
 | Proteus | 2026 | NDSS | Enhancing Website Fingerprinting Attacks against Traffic Drift | [Code](https://github.com/Xinhao-Deng/Adaptive-WF-Attack) | [Dataset](https://drive.google.com/drive/folders/1bAqAvvDrY2wrY4EU-Rxm9mv9hsIvKwGk) |
 | Swallow | 2025 | CCS | Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning | [Code](https://github.com/wujinhe0814/Swallow) | [Dataset](https://zenodo.org/records/16607834) |
@@ -68,6 +69,7 @@
 
 | Defenses | Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|---|---|
+| Stinger | 2026 | TIFS | Stinger: A Light-Weight Website Fingerprinting Defense Through Poisoning Packet Sequences | [Code](https://github.com/sxy888/Stinger) | Ref |
 | Adaptive Tamaraw | 2026 | NDSS | Lightening the Load: A Cluster-Based Framework for A Lower-Overhead, Provable Website Fingerprinting Defense | [Code](https://github.com/khashayarkhaj/Adaptive-Tamaraw) | Ref |
 | FRUGAL | 2026 | NDSS | Cease at the Ultimate Goodness: Towards Efficient Website Fingerprinting Defense via Iterative Mutual Information Minimization | [Code](https://github.com/Junowww/FRUGAL-ndss.git) | [Dataset](https://github.com/Junowww/FRUGAL-ndss.git) |
 | GAPDiS | 2025 | CCS | GAPDiS: Gradient-Assisted Perturbation Design via Sequence Editing for Website Fingerprinting Defense | [Code](https://github.com/ByskyXie/GAPDiS) | Ref |
