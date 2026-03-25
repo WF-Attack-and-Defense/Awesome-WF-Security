@@ -126,7 +126,7 @@
 | DeepCoFFEA | 2022 | S&P | DeepCoFFEA: Improved Flow Correlation Attacks on Tor via Metric Learning and Amplification | [Code](https://github.com/traffic-analysis/deepcoffea) |
 | DeepCorr | 2018 | CCS | DeepCorr: Strong Flow Correlation Attacks on Tor Using Deep Learning | [Code](https://github.com/SPIN-UMass/DeepCorr) |
 
-# Publication Statistics and Analysis since 2015
+# Publication Statistics and Analysis since 2014
 
 > We provide the raw data (CSV format) and Publication Statistics code to reproduce the analysis figures.
 ------
