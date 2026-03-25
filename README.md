@@ -69,6 +69,7 @@
 
 | Defenses | Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|---|---|
+| WTF4NYM | 2026 | PETS | Website fingerprinting on Nym: Attacks and Defenses | [Code](https://github.com/spring-epfl/WF4NYM-artifacts/tree/e6f95df158658ed99c28115aad82924f9f534f88?tab=readme-ov-file) | [Dataset](https://zenodo.org/records/17840656) |
 | Stinger | 2026 | TIFS | Stinger: A Light-Weight Website Fingerprinting Defense Through Poisoning Packet Sequences | [Code](https://github.com/sxy888/Stinger) | Ref |
 | Adaptive Tamaraw | 2026 | NDSS | Lightening the Load: A Cluster-Based Framework for A Lower-Overhead, Provable Website Fingerprinting Defense | [Code](https://github.com/khashayarkhaj/Adaptive-Tamaraw) | Ref |
 | FRUGAL | 2026 | NDSS | Cease at the Ultimate Goodness: Towards Efficient Website Fingerprinting Defense via Iterative Mutual Information Minimization | [Code](https://github.com/Junowww/FRUGAL-ndss.git) | [Dataset](https://github.com/Junowww/FRUGAL-ndss.git) |
