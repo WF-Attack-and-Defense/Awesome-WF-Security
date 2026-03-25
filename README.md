@@ -44,6 +44,7 @@
 | Oscar | 2024 | CCS | Towards Fine-Grained Webpage Fingerprinting at Scale | [Code](https://zenodo.org/records/13383332) | [Dataset](https://zenodo.org/records/13383332) |
 | RobustWF | 2024 | INFOCOM | Causality Correlation and Context Learning Aided Robust Lightweight Multi-Tab Website Fingerprinting Over Encrypted Tunnel | [Code](https://github.com/chenxiailian/robustweb) | [Dataset](https://drive.google.com/file/d/1_NvHBp4Z96UuWw5LwEEcb-WfMrOrEoDP/view?usp=drive_linkS) |
 | SMC | 2024 | TIFS | An Adaptability-Enhanced Few-Shot Website Fingerprinting Attack Based on Collusion | [Code](https://github.com/Tanjingwen96/SMC) | Ref |
+| Retracer | 2024 | WPES | Repositioning Real-World Website Fingerprinting on Tor | NA | NA |
 | NetCLR | 2023 | CCS | Realistic Website Fingerprinting By Augmenting Network Traces | [Code](https://github.com/SPIN-UMass/Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces) | [Dataset](https://github.com/SPIN-UMass/Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces/tree/main/artifacts/datasets) |
 | TMWF | 2023 | CCS | Transformer-based Model for Multi-tab Website Fingerprinting Attack | [Code](https://github.com/jzx-bupt/TMWF) | [Dataset](https://github.com/jzx-bupt/TMWF.git) |
 | RF | 2023 | USENIX | Subverting Website Fingerprinting Defenses with Robust Traffic Representation | [Code](https://github.com/robust-fingerprinting/RF) | [GitHub](https://github.com/robust-fingerprinting/RF) |
