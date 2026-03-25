@@ -1,5 +1,5 @@
 # Awesome Website Fingerprinting Attack and Defense Studies
-> A curated list of research works on website fingerprinting attacks and defenses since 2015. We will continue to maintain this project. Welcome to expand this list by:
+> A curated list of research works on website fingerprinting attacks and defenses since 2014. We will continue to maintain this project. Welcome to expand this list by:
 > - Opening an issue or pull request
 > - To assist future researchers, we welcome any suggestions for improving this survey paper. Please feel free to share your feedback via email: wfsecsota@gmail.com
 
