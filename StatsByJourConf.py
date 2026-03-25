@@ -1,35 +1,44 @@
+import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Creating the DataFrame from the given data
-df = pd.read_csv('AwesomeWFS.csv', usecols=['Year', 'Journal/Conference', 'Category'], encoding='utf-8')
+df = pd.read_csv(
+    "AwesomeWFS.csv",
+    usecols=["Year", "Journal/Conference"],
+    encoding="utf-8",
+)
 
-# Create a mapping for the category labels
-category_labels = {
-    0: 'WF Attack/Defense Measurement',
-    1: 'WF Attacks',
-    2: 'WF Defenses'
-}
+df = df.dropna(subset=["Year", "Journal/Conference"])
+df["Year"] = pd.to_numeric(df["Year"], errors="coerce").astype("Int64")
+df = df.dropna(subset=["Year"])
 
-# Pivot the DataFrame to create a count of each category for each Journal/Conference and Year
-pivot_df = df.pivot_table(index=['Journal/Conference', 'Year'], columns='Category', aggfunc='size', fill_value=0)
+# Counts per Journal/Conference × Year (columns = years for legend)
+ct = pd.crosstab(df["Journal/Conference"], df["Year"])
+ct = ct.reindex(sorted(ct.columns), axis=1)
+ct = ct.loc[ct.sum(axis=1).sort_values(ascending=True).index]
 
-# Rename the columns with the descriptive labels
-pivot_df = pivot_df.rename(columns=category_labels)
+n_years = len(ct.columns)
+if n_years <= 20:
+    colors = plt.cm.tab20(np.linspace(0, 1, n_years))
+else:
+    colors = plt.cm.viridis(np.linspace(0, 1, n_years))
 
-# Plot the stacked bar chart for each Journal/Conference
-pivot_df.unstack(level=0).plot(kind='bar', stacked=True, figsize=(12, 7))
+fig, ax = plt.subplots(figsize=(12, max(6, 0.35 * len(ct))))
+ct.plot(
+    kind="barh",
+    stacked=True,
+    ax=ax,
+    color=colors,
+    edgecolor="black",
+    linewidth=0.2,
+)
 
-# Adding titles and labels
-plt.title('Distribution of Categories by Journal/Conference and Year', fontsize=16)
-plt.xlabel('Journal/Conference and Year', fontsize=12)
-plt.ylabel('Count of Awesome Publications', fontsize=12)
-plt.xticks(rotation=45, ha='right')
+ax.set_title("Published Papers by Journal / Conference (stacked by year)", fontsize=16)
+ax.set_xlabel("Number of papers", fontsize=12)
+ax.set_ylabel("Journal / Conference", fontsize=12)
+ax.grid(axis="x", linestyle="--", alpha=0.4)
+ax.legend(title="Year", bbox_to_anchor=(1.02, 1), loc="upper left")
 
-# Custom legend with the new category names
-plt.legend(title="Category", bbox_to_anchor=(1.05, 1), loc='upper left')
-
-# Show the plot
 plt.tight_layout()
-#plt.savefig('imgs/AwesomeWFS.png', dpi=800)
+# plt.savefig("imgs/AwesomeWFS_by_venue.png", dpi=300, bbox_inches="tight")
 plt.show()
