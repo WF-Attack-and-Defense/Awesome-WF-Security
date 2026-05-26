@@ -27,6 +27,9 @@
 
 | Acctacks| Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|------|---|
+| HiFi-WF | 2026 | WWW | HiFi-WF: Toward Realistic Website Fingerprinting with Multi-tab and Subpage Recognition | [Code](https://github.com/wusongyang02-blip/HiFi-WF) | [Dataset](https://drive.google.com/file/d/1v86rGzmXOrV2tAGfNvCzhTyi69bZNSUv/view) |
+| Forge | 2026 | WWW | Forge: A Robust Multi-tab Website Fingerprinting Attack via Blind Source Separation | [Code](https://github.com/Carm3nc1ta/FORGE) | [Dataset](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) |
+| TraVerse | 2026 | WWW | Robust LLM-Based Website Fingerprinting under Dynamic Real-World Conditions | NA | [Dataset](https://doi.org/10.5281/zenodo.10620519) |
 | STMWF | 2026 | TIFS | STMWF: Multi-Tab Website Fingerprinting via Spatial-Temporal Sequence Analysis | [Code](https://github.com/Lwsy123/spatial-temporal-attack/) | [Dataset](https://drive.google.com/drive/folders/1J95UaR3_b_hEg1HX3OKS9Nc22Vg5zWYo?usp=sharing) |
 | CELLSHIFT | 2026 | NDSS | CELLSHIFT: RTT-Aware Trace Transduction for Real-World Website Fingerprinting | [Code](https://github.com/robgjansen/cellshift) | [Dataset](https://zenodo.org/records/10869889) |
 | Proteus | 2026 | NDSS | Enhancing Website Fingerprinting Attacks against Traffic Drift | [Code](https://github.com/Xinhao-Deng/Adaptive-WF-Attack) | [Dataset](https://drive.google.com/drive/folders/1bAqAvvDrY2wrY4EU-Rxm9mv9hsIvKwGk) |
