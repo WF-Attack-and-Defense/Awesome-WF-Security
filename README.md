@@ -105,7 +105,6 @@
 | DynaFlow | 2018 | WPES | DynaFlow: An Efficient Website Fingerprinting Defense Based on Dynamically-Adjusting Flows | [Code](https://github.com/davidboxboro/DynaFlow) | [Dataset](http://people.csail.mit.edu/kwonal/batch-primes.zip) |
 | Walkie-Talkie | 2017 | USENIX | Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks | [Code](https://www.cs.sfu.ca/~taowang/wf/defenses/) | [Dataset](https://www.cs.sfu.ca/~taowang/wf/data/) |
 | WFDA | 2017 | PETS | Website Fingerprinting Defenses at the Application Layer | [Code](https://github.com/camelids/ALPaCA) | [Dataset](https://github.com/camelids/ALPaCA) |
-| WFES | 2017 | PETS | Bayes, not Naïve: Security Bounds on Website Fingerprinting Defenses | [Code](https://github.com/gchers/wfes) | Ref |
 | WTF-PAD | 2016 | ESORICS | Toward an Efficient Website Fingerprinting Defense | [Code](https://github.com/wtfpad/wtfpad) | [Dataset](https://dart.cse.kau.se/thebasketcase/ape/) |
 
 3. Website Fingerprinting Attacks/Defenses Measurement
@@ -126,7 +125,8 @@
 | 2018 | CCS | Measuring Information Leakage in Website Fingerprinting Attacks and Defenses | [Code](https://github.com/s0irrlor7m/InfoLeakWebsiteFingerprint) |
 | 2018 | CCS | Privacy-Preserving Dynamic Learning of Tor Network Traffic | [Code](https://tmodel-ccs2018.github.io/) |
 | 2018 | PETS | Feature Selection for Website Fingerprinting | NA |
-| 2017 | CCS | How Unique is Your .onion?: An Analysis of the Fingerprintability of Tor Onion Services | Dataset: [Tik-Tok](https://zenodo.org/records/11631265) | 
+| 2017 | CCS | How Unique is Your .onion?: An Analysis of the Fingerprintability of Tor Onion Services | Dataset: [Tik-Tok](https://zenodo.org/records/11631265) |
+| WFES | 2017 | PETS | Bayes, not Naïve: Security Bounds on Website Fingerprinting Defenses | [Code](https://github.com/gchers/wfes) | Ref |
 | 2016 | CCS | Safely Measuring Tor | [Code](https://github.com/privcount/privcount) |
 
 4. Traffic flow Correlation
