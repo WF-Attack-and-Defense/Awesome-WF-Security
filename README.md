@@ -82,6 +82,7 @@
 | Adaptive Tamaraw | 2026 | NDSS | Lightening the Load: A Cluster-Based Framework for A Lower-Overhead, Provable Website Fingerprinting Defense | [Code](https://github.com/khashayarkhaj/Adaptive-Tamaraw) | Ref |
 | FRUGAL | 2026 | NDSS | Cease at the Ultimate Goodness: Towards Efficient Website Fingerprinting Defense via Iterative Mutual Information Minimization | [Code](https://github.com/Junowww/FRUGAL-ndss.git) | [Dataset](https://github.com/Junowww/FRUGAL-ndss.git) |
 | GAPDiS | 2025 | CCS | GAPDiS: Gradient-Assisted Perturbation Design via Sequence Editing for Website Fingerprinting Defense | [Code](https://github.com/ByskyXie/GAPDiS) | Ref |
+| Splash | 2025 | ACSAC | Splash: Adversarial Defense with Short Perturbation Blocks Against Adversarial Training Aided Website Fingerprinting | [Code](https://github.com/AHA-MarcoBot/Splash-code) | Ref |
 | WF-A2D | 2025 | TIFS | WF-A2D: Enhancing Privacy With Asymmetric Adversarial Defense Against Website Fingerprinting | NA | NA |
 | Palette | 2024 | S&P | Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization | [Code](https://github.com/kxdkxd/Palette) | [Dataset](https://github.com/kxdkxd/Palette) |
 | RUDOLF | 2024 | TIFS | RUDOLF: An Efficient and Adaptive Defense Approach Against Website Fingerprinting Attacks Based on Soft Actor-Critic Algorithm | NA | NA |
