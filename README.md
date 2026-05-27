@@ -104,7 +104,7 @@
 | WF-GAN | 2020 | ISCC | WF-GAN: Fighting Back Against Website Fingerprinting Attack Using Adversarial Learning | NA | NA |
 | DynaFlow | 2018 | WPES | DynaFlow: An Efficient Website Fingerprinting Defense Based on Dynamically-Adjusting Flows | [Code](https://github.com/davidboxboro/DynaFlow) | [Dataset](http://people.csail.mit.edu/kwonal/batch-primes.zip) |
 | Walkie-Talkie | 2017 | USENIX | Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks | [Code](https://www.cs.sfu.ca/~taowang/wf/defenses/) | [Dataset](https://www.cs.sfu.ca/~taowang/wf/data/) |
-| WFDA | 2017 | PETS | Website Fingerprinting Defenses at the Application Layer | [Code](https://github.com/camelids/ALPaCA) | [Dataset](https://github.com/camelids/ALPaCA) |
+| ALPaCA | 2017 | PETS | Website Fingerprinting Defenses at the Application Layer | [Code](https://github.com/camelids/ALPaCA) | [Dataset](https://github.com/camelids/ALPaCA) |
 | WTF-PAD | 2016 | ESORICS | Toward an Efficient Website Fingerprinting Defense | [Code](https://github.com/wtfpad/wtfpad) | [Dataset](https://dart.cse.kau.se/thebasketcase/ape/) |
 
 3. Website Fingerprinting Attacks/Defenses Measurement
