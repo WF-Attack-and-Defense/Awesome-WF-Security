@@ -126,7 +126,7 @@
 | 2018 | CCS | Privacy-Preserving Dynamic Learning of Tor Network Traffic | [Code](https://tmodel-ccs2018.github.io/) |
 | 2018 | PETS | Feature Selection for Website Fingerprinting | NA |
 | 2017 | CCS | How Unique is Your .onion?: An Analysis of the Fingerprintability of Tor Onion Services | Dataset: [Tik-Tok](https://zenodo.org/records/11631265) |
-| WFES | 2017 | PETS | Bayes, not Naïve: Security Bounds on Website Fingerprinting Defenses | [Code](https://github.com/gchers/wfes) | Ref |
+| WFES | 2017 | Bayes, not Naïve: Security Bounds on Website Fingerprinting Defenses | [Code](https://github.com/gchers/wfes) |
 | 2016 | CCS | Safely Measuring Tor | [Code](https://github.com/privcount/privcount) |
 
 4. Traffic flow Correlation
