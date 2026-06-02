@@ -106,6 +106,7 @@
 | Walkie-Talkie | 2017 | USENIX | Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks | [Code](https://www.cs.sfu.ca/~taowang/wf/defenses/) | [Dataset](https://www.cs.sfu.ca/~taowang/wf/data/) |
 | ALPaCA | 2017 | PETS | Website Fingerprinting Defenses at the Application Layer | [Code](https://github.com/camelids/ALPaCA) | [Dataset](https://github.com/camelids/ALPaCA) |
 | WTF-PAD | 2016 | ESORICS | Toward an Efficient Website Fingerprinting Defense | [Code](https://github.com/wtfpad/wtfpad) | [Dataset](https://dart.cse.kau.se/thebasketcase/ape/) |
+| Tamaraw | 2014 | CCS | A Systematic Approach to Developing and Evaluating Website Fingerprinting Defenses | [Code](https://www2.cs.sfu.ca/~taowang/wf/defenses/) | [Dataset](https://www2.cs.sfu.ca/~taowang/wf/data/) |
 
 3. Website Fingerprinting Attacks/Defenses Measurement
 
