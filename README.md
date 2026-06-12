@@ -182,9 +182,7 @@
 
 ![Distribution of Categories by Journal/Conference and Year](https://github.com/WF-Attack-and-Defense/Awesome-WF-Security/blob/main/imgs/AwesomeWFS.png)
 
-
 </details>
-
 
 <summary><h2 id="citation">Citation</h2></summary>
 
@@ -194,9 +192,14 @@
       title={A Comprehensive Survey of Website Fingerprinting Attacks and Defenses in Tor: Advances and Open Challenges}, 
       author={Yuwen Cui and Guangjing Wang and Khanh Vu and Kai Wei and Kehan Shen and Zhengyuan Jiang and Xiao Han and Ning Wang and Zhuo Lu and Yao Liu},
       year={2025},
+	  journal={CoRR},
+	  volume={abs/2510.11804},
       eprint={2510.11804},
       archivePrefix={arXiv},
+	  eprinttype={arXiv},
       primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2510.11804}, 
-    }
+	  timestamp={Tue, 24 Mar 2026 07:46:58 +0100},
+	  url={https://doi.org/10.48550/arXiv.2510.11804},
+	  doi={10.48550/ARXIV.2510.11804},
+   }
 
