@@ -169,7 +169,7 @@
 </details>
 
 <details>
-<summary><h2 id="publication-statistics-and-analysis-since-2014">Publication Statistics and Analysis since 2014</h2></summary>
+<summary><h2 id="publication-statistics-and-analysis-since-2014">Publication Statistics since 2014</h2></summary>
 
 > We provide the raw data (CSV format) and Publication Statistics code to reproduce the analysis figures.
 
