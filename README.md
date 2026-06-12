@@ -13,6 +13,7 @@
   - [2. Website Fingerprinting Defenses](#2-website-fingerprinting-defenses)
   - [3. Website Fingerprinting Attacks/Defenses Measurement](#3-website-fingerprinting-attacksdefenses-measurement)
   - [4. Traffic flow Correlation](#4-traffic-flow-correlation)
+  - [5. Datasets](#5-Datasets)
 - [Publication Statistics and Analysis since 2014](#publication-statistics-and-analysis-since-2014)
   - [Distribution of Awesome Publications by Year](#distribution-of-awesome-publications-by-year)
   - [Distribution of Categories by Journal/Conference and Year](#distribution-of-categories-by-journalconference-and-year)
@@ -147,6 +148,21 @@
 |------|------|--------|--------------------------------------------------|---|
 | DeepCoFFEA | 2022 | S&P | DeepCoFFEA: Improved Flow Correlation Attacks on Tor via Metric Learning and Amplification | [Code](https://github.com/traffic-analysis/deepcoffea) |
 | DeepCorr | 2018 | CCS | DeepCorr: Strong Flow Correlation Attacks on Tor Using Deep Learning | [Code](https://github.com/SPIN-UMass/DeepCorr) |
+
+</details>
+
+<details>
+<summary><h3 id="5-Datasets">5. Datasets</h3></summary>
+
+| Dataset | Year | Journal/Conference | Title | Links |
+|------|------|--------|--------------------------------------------------|---|
+| xxx | xxx | xxx | xxxx | [Downloads]() |
+| xxx | xxx | xxx | xxxx | [Downloads]() |
+| xxx | xxx | xxx | xxxx | [Downloads]() |
+| xxx | xxx | xxx | xxxx | [Downloads]() |
+| xxx | xxx | xxx | xxxx | [Downloads]() |
+| xxx | xxx | xxx | xxxx | [Downloads]() |
+| xxx | xxx | xxx | xxxx | [Downloads]() |
 
 </details>
 
