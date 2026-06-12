@@ -200,6 +200,6 @@
       primaryClass={cs.CR},
 	  timestamp={Tue, 24 Mar 2026 07:46:58 +0100},
 	  url={https://doi.org/10.48550/arXiv.2510.11804},
-	  doi={10.48550/ARXIV.2510.11804},
+	  doi={10.48550/ARXIV.2510.11804}
    }
 
