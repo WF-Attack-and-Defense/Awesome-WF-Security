@@ -6,7 +6,7 @@
 
 ----
 
-<summary><h1>Outline</h1></summary>
+<summary><h2>Outline</h2></summary>
 
 - [Categories](#categories)
   - [1. Website Fingerprinting Attacks](#1-website-fingerprinting-attacks)
