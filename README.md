@@ -160,7 +160,7 @@
 
 | Dataset | Year | Details | Dataset Size | Links |
 |------|------|--------|--------------------------------------------------|---|
-| CDWF | 2025 | Browser: Chrome Versions from 92.0 to 99.0. <br> Webpages cache occupancy dataset W/WO browser version changes. <br> Network packet size and direction dataset W/WO browser version changes. | CW: 100 × 100 | [Downloads](https://data.mendeley.com/datasets/fd6ggttgj4/2) |
+| CDWF | 2025 | Browser: Chrome Versions from 92.0 to 99.0. <br> Webpages cache occupancy dataset W/WO browser version changes. <br> Network packet size and direction dataset W/WO browser version changes. <br> Source: Alexa Top-100 for May 2021 <br> User activity: Homepages | CW: 100 × 100 | [Downloads](https://data.mendeley.com/datasets/fd6ggttgj4/2) |
 | xxx | xxx | xxx | xxxx | [Downloads]() |
 | xxx | xxx | xxx | xxxx | [Downloads]() |
 | xxx | xxx | xxx | xxxx | [Downloads]() |
