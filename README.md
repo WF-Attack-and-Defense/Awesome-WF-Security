@@ -19,12 +19,12 @@
 - [Citation](#citation)
 ----
 
-<summary><h1 id="categories">Categories</h1></summary>
+<summary><h2 id="categories">Categories</h2></summary>
 
 > NA: Not found; Ref: Refer to other datasets.
 
 <details>
-<summary><h2 id="1-website-fingerprinting-attacks">1. Website Fingerprinting Attacks</h2></summary>
+<summary><h3 id="1-website-fingerprinting-attacks">1. Website Fingerprinting Attacks</h3></summary>
 
 | Acctacks| Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|------|---|
@@ -76,7 +76,7 @@
 </details>
 
 <details>
-<summary><h2 id="2-website-fingerprinting-defenses">2. Website Fingerprinting Defenses</h2></summary>
+<summary><h3 id="2-website-fingerprinting-defenses">2. Website Fingerprinting Defenses</h3></summary>
 
 | Defenses | Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|---|---|
@@ -115,7 +115,7 @@
 </details>
 
 <details>
-<summary><h2 id="3-website-fingerprinting-attacksdefenses-measurement">3. Website Fingerprinting Attacks/Defenses Measurement</h2></summary>
+<summary><h3 id="3-website-fingerprinting-attacksdefenses-measurement">3. Website Fingerprinting Attacks/Defenses Measurement</h3></summary>
 
 | Year | Journal/Conference | Title | Source Code |
 |------|--------|--------------------------------------------------|---|
@@ -141,7 +141,7 @@
 </details>
 
 <details>
-<summary><h2 id="4-traffic-flow-correlation">4. Traffic flow Correlation</h2></summary>
+<summary><h3 id="4-traffic-flow-correlation">4. Traffic flow Correlation</h3></summary>
 
 | Defenses | Year | Journal/Conference | Title | Source Code |
 |------|------|--------|--------------------------------------------------|---|
@@ -151,16 +151,16 @@
 </details>
 
 <details>
-<summary><h1 id="publication-statistics-and-analysis-since-2014">Publication Statistics and Analysis since 2014</h1></summary>
+<summary><h2 id="publication-statistics-and-analysis-since-2014">Publication Statistics and Analysis since 2014</h2></summary>
 
 > We provide the raw data (CSV format) and Publication Statistics code to reproduce the analysis figures.
 
-<summary><h2 id="distribution-of-awesome-publications-by-year">Distribution of Awesome Publications by Year</h2></summary>
+<summary><h3 id="distribution-of-awesome-publications-by-year">Distribution of Awesome Publications by Year</h3></summary>
 
 ![Distribution of Awesome Publications by Year](https://github.com/WF-Attack-and-Defense/Awesome-WF-Security/blob/main/imgs/AwesomeWFPaperStats.png)
 
 
-<summary><h2 id="distribution-of-categories-by-journalconference-and-year">Distribution of Categories by Journal/Conference and Year</h2></summary>
+<summary><h3 id="distribution-of-categories-by-journalconference-and-year">Distribution of Categories by Journal/Conference and Year</h3></summary>
 
 ![Distribution of Categories by Journal/Conference and Year](https://github.com/WF-Attack-and-Defense/Awesome-WF-Security/blob/main/imgs/AwesomeWFS.png)
 
@@ -168,7 +168,7 @@
 </details>
 
 
-<summary><h1 id="citation">Citation</h1></summary>
+<summary><h2 id="citation">Citation</h2></summary>
 
 **Cite:** If you find this survey [paper](https://arxiv.org/abs/2510.11804) useful in your research, please consider citing:
 
