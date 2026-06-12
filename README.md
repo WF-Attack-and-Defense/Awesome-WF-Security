@@ -172,18 +172,14 @@
 
 > We provide the raw data (CSV format) and Publication Statistics code to reproduce the analysis figures.
 
-<details>
 <summary><h2 id="distribution-of-awesome-publications-by-year">Distribution of Awesome Publications by Year</h2></summary>
 
 ![Distribution of Awesome Publications by Year](https://github.com/WF-Attack-and-Defense/Awesome-WF-Security/blob/main/imgs/AwesomeWFPaperStats.png)
 
-</details>
 
-<details>
 <summary><h2 id="distribution-of-categories-by-journalconference-and-year">Distribution of Categories by Journal/Conference and Year</h2></summary>
 
 ![Distribution of Categories by Journal/Conference and Year](https://github.com/WF-Attack-and-Defense/Awesome-WF-Security/blob/main/imgs/AwesomeWFS.png)
 
-</details>
 
 </details>
