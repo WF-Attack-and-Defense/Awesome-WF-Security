@@ -7,7 +7,6 @@
 
 ## Outline
 
-- [Citation](#citation)
 - [Categories](#categories)
   - [1. Website Fingerprinting Attacks](#1-website-fingerprinting-attacks)
   - [2. Website Fingerprinting Defenses](#2-website-fingerprinting-defenses)
@@ -16,25 +15,8 @@
 - [Publication Statistics and Analysis since 2014](#publication-statistics-and-analysis-since-2014)
   - [Distribution of Awesome Publications by Year](#distribution-of-awesome-publications-by-year)
   - [Distribution of Categories by Journal/Conference and Year](#distribution-of-categories-by-journalconference-and-year)
-
+- [Citation](#citation)
 ----
-
-<details>
-<summary><h1 id="citation">Citation</h1></summary>
-
-**Cite:** If you find this survey [paper](https://arxiv.org/abs/2510.11804) useful in your research, please consider citing:
-
-	@misc{cui2025comprehensivesurveywebsitefingerprinting,
-      title={A Comprehensive Survey of Website Fingerprinting Attacks and Defenses in Tor: Advances and Open Challenges}, 
-      author={Yuwen Cui and Guangjing Wang and Khanh Vu and Kai Wei and Kehan Shen and Zhengyuan Jiang and Xiao Han and Ning Wang and Zhuo Lu and Yao Liu},
-      year={2025},
-      eprint={2510.11804},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2510.11804}, 
-    }
-
-</details>
 
 ## Categories
 
@@ -183,3 +165,19 @@
 
 
 </details>
+
+
+<summary><h1 id="citation">Citation</h1></summary>
+
+**Cite:** If you find this survey [paper](https://arxiv.org/abs/2510.11804) useful in your research, please consider citing:
+
+	@misc{cui2025comprehensivesurveywebsitefingerprinting,
+      title={A Comprehensive Survey of Website Fingerprinting Attacks and Defenses in Tor: Advances and Open Challenges}, 
+      author={Yuwen Cui and Guangjing Wang and Khanh Vu and Kai Wei and Kehan Shen and Zhengyuan Jiang and Xiao Han and Ning Wang and Zhuo Lu and Yao Liu},
+      year={2025},
+      eprint={2510.11804},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2510.11804}, 
+    }
+
