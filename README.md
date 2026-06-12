@@ -1,11 +1,11 @@
-# Awesome Website Fingerprinting Attack and Defense Studies
+<summary><h1> Awesome Website Fingerprinting Attack and Defense Studies</h1></summary>
 > A curated list of research works on website fingerprinting attacks and defenses since 2014. We will continue to maintain this project. Welcome to expand this list by:
 > - Opening an issue or pull request
 > - To assist future researchers, we welcome any suggestions for improving this survey paper. Please feel free to share your feedback via email: wfsecsota@gmail.com
 
 ----
 
-## Outline
+<summary><h1>Outline</h1></summary>
 
 - [Categories](#categories)
   - [1. Website Fingerprinting Attacks](#1-website-fingerprinting-attacks)
@@ -18,7 +18,7 @@
 - [Citation](#citation)
 ----
 
-## Categories
+<summary><h1 id="categories">Categories</h1></summary>
 
 > NA: Not found; Ref: Refer to other datasets.
 
