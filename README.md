@@ -112,6 +112,7 @@
 
 | Year | Journal/Conference | Title | Source Code |
 |------|--------|--------------------------------------------------|---|
+| 2026 | Comput. Networks | Understanding and addressing concept drift in website fingerprinting | [Code](https://github.com/tolikshus/concept-drift) [Dataset](https://data.mendeley.com/datasets/fd6ggttgj4/2) |
 | 2024 | arXiv | A Measurement of Genuine Tor Traces for Realistic Website Fingerprinting | [Dataset](https://doi.org/10.5281/zenodo.10620519) |
 | 2024 | TIFS | WFDefProxy: Real World Implementation and Evaluation of Website Fingerprinting Defenses | [Code](https://github.com/websitefingerprinting/wfdef) |
 | 2024 | NDSS | On Precisely Detecting Censorship Circumvention in Real-World Networks | Code: [AWF](https://github.com/DistriNet/DLWF) and [DF](https://github.com/deep-fingerprinting/df) |
