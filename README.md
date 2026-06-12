@@ -154,20 +154,7 @@
 <details>
 <summary><h3 id="5-Datasets">5. Datasets</h3></summary>
 
-> - Dataset size is reported as N<sub>C</sub> × N<sub>I</sub>, where N<sub>C</sub> is the number of classes and N<sub>I</sub> is the number of instances per class.
-> - CW: Closed-World Dataset; OW: Open-World Dataset
-> - Datasets are referenced by their original names when available; otherwise, abbreviations derived from the capitalized initials of the paper title or proposed model name are used.
-
-| Dataset | Year | Details | Dataset Size | Links |
-|------|------|--------|--------------------------------------------------|---|
-| STAR | 2026 | xxx | xxxx | [Downloads](https://zenodo.org/records/17060855) |
-| CDWF | 2025 | Browser: Chrome Versions from 92.0 to 99.0. <br> Webpages cache occupancy dataset W/WO browser version changes. <br> Network packet size and direction dataset W/WO browser version changes. <br> Source: Alexa Top-100 for May 2021 <br> User activity: Homepages | CW: 100 × 100 | [Downloads](https://data.mendeley.com/datasets/fd6ggttgj4/2) |
-| xxx | xxx | xxx | xxxx | [Downloads]() |
-| xxx | xxx | xxx | xxxx | [Downloads]() |
-| xxx | xxx | xxx | xxxx | [Downloads]() |
-| xxx | xxx | xxx | xxxx | [Downloads]() |
-| xxx | xxx | xxx | xxxx | [Downloads]() |
-| xxx | xxx | xxx | xxxx | [Downloads]() |
+> [https://www.rwails.org/tor_wf_index.html](https://www.rwails.org/tor_wf_index.html)
 
 </details>
 
