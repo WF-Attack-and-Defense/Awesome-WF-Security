@@ -154,7 +154,9 @@
 <details>
 <summary><h3 id="5-Datasets">5. Datasets</h3></summary>
 
-| Dataset | Year | Journal/Conference | Title | Links |
+> Dataset size is reported as N<sub>C</sub> × N<sub>I</sub>, where N<sub>C</sub> is the number of classes and N<sub>I</sub> is the number of instances per class.
+
+| Dataset | Year | Details | Dataset Size | Links |
 |------|------|--------|--------------------------------------------------|---|
 | xxx | xxx | xxx | xxxx | [Downloads]() |
 | xxx | xxx | xxx | xxxx | [Downloads]() |
