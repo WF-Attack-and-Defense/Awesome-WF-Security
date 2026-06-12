@@ -81,7 +81,7 @@
 
 | Defenses | Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|---|---|
-| TrapFlow | 2026 | TIFS | TrapFlow: Controllable Website Fingerprinting Defense via Dynamic Backdoor Learning | NA | NA |
+| TrapFlow | 2026 | TIFS | TrapFlow: Controllable Website Fingerprinting Defense via Dynamic Backdoor Learning | [Code](https://github.com/LiangSiyuan21/TrapFlow) | [Dataset](https://drive.google.com/drive/folders/1JXnM5ybjmOjseRPpDM_OSllnER_6CfvL) |
 | WTF4NYM | 2026 | PETS | Website fingerprinting on Nym: Attacks and Defenses | [Code](https://github.com/spring-epfl/WF4NYM-artifacts/tree/e6f95df158658ed99c28115aad82924f9f534f88?tab=readme-ov-file) | [Dataset](https://zenodo.org/records/17840656) |
 | Stinger | 2026 | TIFS | Stinger: A Light-Weight Website Fingerprinting Defense Through Poisoning Packet Sequences | [Code](https://github.com/sxy888/Stinger) | Ref |
 | Adaptive Tamaraw | 2026 | NDSS | Lightening the Load: A Cluster-Based Framework for A Lower-Overhead, Provable Website Fingerprinting Defense | [Code](https://github.com/khashayarkhaj/Adaptive-Tamaraw) | Ref |
