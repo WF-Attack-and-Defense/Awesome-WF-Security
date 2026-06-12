@@ -5,7 +5,22 @@
 
 ----
 
-# Citation
+## Outline
+
+- [Citation](#citation)
+- [Categories](#categories)
+  - [1. Website Fingerprinting Attacks](#1-website-fingerprinting-attacks)
+  - [2. Website Fingerprinting Defenses](#2-website-fingerprinting-defenses)
+  - [3. Website Fingerprinting Attacks/Defenses Measurement](#3-website-fingerprinting-attacksdefenses-measurement)
+  - [4. Traffic flow Correlation](#4-traffic-flow-correlation)
+- [Publication Statistics and Analysis since 2014](#publication-statistics-and-analysis-since-2014)
+  - [Distribution of Awesome Publications by Year](#distribution-of-awesome-publications-by-year)
+  - [Distribution of Categories by Journal/Conference and Year](#distribution-of-categories-by-journalconference-and-year)
+
+----
+
+<details>
+<summary><h1 id="citation">Citation</h1></summary>
 
 **Cite:** If you find this survey [paper](https://arxiv.org/abs/2510.11804) useful in your research, please consider citing:
 
@@ -19,11 +34,14 @@
       url={https://arxiv.org/abs/2510.11804}, 
     }
 
+</details>
+
 ## Categories
 
 > NA: Not found; Ref: Refer to other datasets.
 
-1. Website Fingerprinting Attacks
+<details>
+<summary><h2 id="1-website-fingerprinting-attacks">1. Website Fingerprinting Attacks</h2></summary>
 
 | Acctacks| Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|------|---|
@@ -72,7 +90,10 @@
 | RATWF | 2016 | PETS | On Realistically Attacking Tor with Website Fingerprinting | [Code](https://www.cs.sfu.ca/~taowang/wf/index.html) | [Dataset](https://www.cs.sfu.ca/~taowang/wf/index.html) |
 | Wang14 | 2014 | USENIX | Effective Attacks and Provable Defenses for Website Fingerprinting | [Code](https://www.cs.sfu.ca/~taowang/wf/index.html) | [Dataset](https://github.com/kdsec/wangknn-dataset) |
 
-2. Website Fingerprinting Defenses
+</details>
+
+<details>
+<summary><h2 id="2-website-fingerprinting-defenses">2. Website Fingerprinting Defenses</h2></summary>
 
 | Defenses | Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|---|---|
@@ -108,7 +129,10 @@
 | WTF-PAD | 2016 | ESORICS | Toward an Efficient Website Fingerprinting Defense | [Code](https://github.com/wtfpad/wtfpad) | [Dataset](https://dart.cse.kau.se/thebasketcase/ape/) |
 | Tamaraw | 2014 | CCS | A Systematic Approach to Developing and Evaluating Website Fingerprinting Defenses | [Code](https://www2.cs.sfu.ca/~taowang/wf/defenses/) | [Dataset](https://www2.cs.sfu.ca/~taowang/wf/data/) |
 
-3. Website Fingerprinting Attacks/Defenses Measurement
+</details>
+
+<details>
+<summary><h2 id="3-website-fingerprinting-attacksdefenses-measurement">3. Website Fingerprinting Attacks/Defenses Measurement</h2></summary>
 
 | Year | Journal/Conference | Title | Source Code |
 |------|--------|--------------------------------------------------|---|
@@ -131,21 +155,35 @@
 | WFES | 2017 | Bayes, not Naïve: Security Bounds on Website Fingerprinting Defenses | [Code](https://github.com/gchers/wfes) |
 | 2016 | CCS | Safely Measuring Tor | [Code](https://github.com/privcount/privcount) |
 
-4. Traffic flow Correlation
+</details>
+
+<details>
+<summary><h2 id="4-traffic-flow-correlation">4. Traffic flow Correlation</h2></summary>
 
 | Defenses | Year | Journal/Conference | Title | Source Code |
 |------|------|--------|--------------------------------------------------|---|
 | DeepCoFFEA | 2022 | S&P | DeepCoFFEA: Improved Flow Correlation Attacks on Tor via Metric Learning and Amplification | [Code](https://github.com/traffic-analysis/deepcoffea) |
 | DeepCorr | 2018 | CCS | DeepCorr: Strong Flow Correlation Attacks on Tor Using Deep Learning | [Code](https://github.com/SPIN-UMass/DeepCorr) |
 
-# Publication Statistics and Analysis since 2014
+</details>
+
+<details>
+<summary><h1 id="publication-statistics-and-analysis-since-2014">Publication Statistics and Analysis since 2014</h1></summary>
 
 > We provide the raw data (CSV format) and Publication Statistics code to reproduce the analysis figures.
-------
 
-## Distribution of Awesome Publications by Year
+<details>
+<summary><h2 id="distribution-of-awesome-publications-by-year">Distribution of Awesome Publications by Year</h2></summary>
+
 ![Distribution of Awesome Publications by Year](https://github.com/WF-Attack-and-Defense/Awesome-WF-Security/blob/main/imgs/AwesomeWFPaperStats.png)
 
-## Distribution of Categories by Journal/Conference and Year
+</details>
+
+<details>
+<summary><h2 id="distribution-of-categories-by-journalconference-and-year">Distribution of Categories by Journal/Conference and Year</h2></summary>
+
 ![Distribution of Categories by Journal/Conference and Year](https://github.com/WF-Attack-and-Defense/Awesome-WF-Security/blob/main/imgs/AwesomeWFS.png)
 
+</details>
+
+</details>
