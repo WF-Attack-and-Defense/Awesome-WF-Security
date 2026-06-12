@@ -154,9 +154,9 @@
 <details>
 <summary><h3 id="5-Datasets">5. Datasets</h3></summary>
 
-> Dataset size is reported as N<sub>C</sub> × N<sub>I</sub>, where N<sub>C</sub> is the number of classes and N<sub>I</sub> is the number of instances per class.
-> CW: Closed-World Dataset; OW: Open-World Dataset
-> Datasets are referenced by their original names when available; otherwise, abbreviations derived from the capitalized initials of the paper title or proposed model name are used.
+> - Dataset size is reported as N<sub>C</sub> × N<sub>I</sub>, where N<sub>C</sub> is the number of classes and N<sub>I</sub> is the number of instances per class.
+> - CW: Closed-World Dataset; OW: Open-World Dataset
+> - Datasets are referenced by their original names when available; otherwise, abbreviations derived from the capitalized initials of the paper title or proposed model name are used.
 
 | Dataset | Year | Details | Dataset Size | Links |
 |------|------|--------|--------------------------------------------------|---|
