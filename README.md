@@ -154,6 +154,8 @@
 <details>
 <summary><h3 id="5-Datasets">5. Datasets</h3></summary>
 
+> We thank the authors of <i>A Measurement of Genuine Tor Traces for Realistic Website Fingerprinting</i> for providing access to datasets dating back to 2008.
+
 > [https://www.rwails.org/tor_wf_index.html](https://www.rwails.org/tor_wf_index.html)
 
 </details>
