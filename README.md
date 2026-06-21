@@ -84,6 +84,7 @@
 | Defenses | Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|---|---|
 | Amoeba | 2026 | ToN | Amoeba: Defending Against Deep Website Fingerprinting Attacks With GAN-Based Trace Generative Model | [Code]( https://github.com/Amoeba-2025/Amoeba) | [Dataset](https://drive.google.com/file/d/1oRPjwWwC6KLfwb7LnBeKiocXH8dZWKzy/view) | 
+| ADEFTOR | 2026 | ToN | ADEFTOR: Adaptive Adversarial Example Generation for Website Fingerprinting Defense in Tor | [Code]() | [Dataset]() |
 | WTF4NYM | 2026 | PETS | Website fingerprinting on Nym: Attacks and Defenses | [Code](https://github.com/spring-epfl/WF4NYM-artifacts/tree/e6f95df158658ed99c28115aad82924f9f534f88?tab=readme-ov-file) | [Dataset](https://zenodo.org/records/17840656) |
 | Stinger | 2026 | TIFS | Stinger: A Light-Weight Website Fingerprinting Defense Through Poisoning Packet Sequences | [Code](https://github.com/sxy888/Stinger) | Ref |
 | TrapFlow | 2026 | TIFS | TrapFlow: Controllable Website Fingerprinting Defense via Dynamic Backdoor Learning | [Code](https://github.com/LiangSiyuan21/TrapFlow) | [Dataset](https://drive.google.com/drive/folders/1JXnM5ybjmOjseRPpDM_OSllnER_6CfvL) |
@@ -105,6 +106,7 @@
 | Minipatch | 2022 | TIFS | Minipatch: Undermining DNN-Based Website Fingerprinting With Adversarial Patches | [Code](https://github.com/website-fingerprinting/minipatch) | [Dataset](https://github.com/website-fingerprinting/minipatch) |
 | BLANKET| 2021 | USENIX | Defeating DNN-Based Traffic Analysis Systems in Real-Time With Blind Adversarial Perturbations | [Code](https://github.com/SPIN-UMass/BLANKET) | [Dataset](https://skulddata.cs.umass.edu/traces/network/deepcorr.tar.bz2) |
 | Mockingbird | 2021 | TIFS | Mockingbird: Defending Against Deep-Learning-Based Website Fingerprinting Attacks With Adversarial Traces | [Code](https://github.com/msrocean/mockingbird/) | [Dataset](https://osf.io/fgrn7/files/osfstorage) |
+| AF | 2021 | CODASPY | Adaptive Fingerprinting: Website Fingerprinting over Few Encrypted Traffic | [Code](https://github.com/SmartHomePrivacyProject/AdaptiveFingerprinting) | Exipired |
 | DFD | 2020 | INFOCOM | DFD: Adversarial Learning-based Approach to Defend Against Website Fingerprinting | NA | NA |
 | FRONT and GLUE| 2020 | USENIX | Zero-delay Lightweight Defenses against Website Fingerprinting | [Code](https://github.com/websitefingerprinting/WebsiteFingerprinting/) | [Dataset](https://www.cs.sfu.ca/~taowang/wf/20000.zip) |
 | TrafficSliver | 2020 | CCS | TrafficSliver: Fighting Website Fingerprinting Attacks with Traffic Splitting | [Code](https://github.com/TrafficSliver) | NA |
