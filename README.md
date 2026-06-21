@@ -30,6 +30,7 @@
 | Acctacks| Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|------|---|
 | STAR | 2026 | INFOCOM | STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting | [Code](https://github.com/2654400439/STAR-Website-Fingerprinting/tree/main) | [Dataset](https://zenodo.org/records/17060855) |
+|  EIL-WF | 2026 | ToN | An Efficient Website Fingerprinting for New Websites Emerging Based on Incremental Learning | NA | NA |
 | RoFiRe | 2026 | WWW | RoFiRe: Robust Website Fingerprinting on Real-World Tor Traffic via Improved Augmentation and Normalization | [Code](https://github.com/AISec-EWHA/RoFiRe) | [Dataset](https://doi.org/10.5281/zenodo.10620519) |
 | HiFi-WF | 2026 | WWW | HiFi-WF: Toward Realistic Website Fingerprinting with Multi-tab and Subpage Recognition | [Code](https://github.com/wusongyang02-blip/HiFi-WF) | [Dataset](https://drive.google.com/file/d/1v86rGzmXOrV2tAGfNvCzhTyi69bZNSUv/view) |
 | Forge | 2026 | WWW | Forge: A Robust Multi-tab Website Fingerprinting Attack via Blind Source Separation | [Code](https://github.com/Carm3nc1ta/FORGE) | [Dataset](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) |
