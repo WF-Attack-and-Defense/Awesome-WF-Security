@@ -83,10 +83,10 @@
 
 | Defenses | Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|---|---|
-| TrapFlow | 2026 | TIFS | TrapFlow: Controllable Website Fingerprinting Defense via Dynamic Backdoor Learning | [Code](https://github.com/LiangSiyuan21/TrapFlow) | [Dataset](https://drive.google.com/drive/folders/1JXnM5ybjmOjseRPpDM_OSllnER_6CfvL) |
 | Amoeba | 2026 | ToN | Amoeba: Defending Against Deep Website Fingerprinting Attacks With GAN-Based Trace Generative Model | [Code]( https://github.com/Amoeba-2025/Amoeba) | [Dataset](https://drive.google.com/file/d/1oRPjwWwC6KLfwb7LnBeKiocXH8dZWKzy/view) | 
 | WTF4NYM | 2026 | PETS | Website fingerprinting on Nym: Attacks and Defenses | [Code](https://github.com/spring-epfl/WF4NYM-artifacts/tree/e6f95df158658ed99c28115aad82924f9f534f88?tab=readme-ov-file) | [Dataset](https://zenodo.org/records/17840656) |
 | Stinger | 2026 | TIFS | Stinger: A Light-Weight Website Fingerprinting Defense Through Poisoning Packet Sequences | [Code](https://github.com/sxy888/Stinger) | Ref |
+| TrapFlow | 2026 | TIFS | TrapFlow: Controllable Website Fingerprinting Defense via Dynamic Backdoor Learning | [Code](https://github.com/LiangSiyuan21/TrapFlow) | [Dataset](https://drive.google.com/drive/folders/1JXnM5ybjmOjseRPpDM_OSllnER_6CfvL) |
 | Adaptive Tamaraw | 2026 | NDSS | Lightening the Load: A Cluster-Based Framework for A Lower-Overhead, Provable Website Fingerprinting Defense | [Code](https://github.com/khashayarkhaj/Adaptive-Tamaraw) | Ref |
 | FRUGAL | 2026 | NDSS | Cease at the Ultimate Goodness: Towards Efficient Website Fingerprinting Defense via Iterative Mutual Information Minimization | [Code](https://github.com/Junowww/FRUGAL-ndss.git) | [Dataset](https://github.com/Junowww/FRUGAL-ndss.git) |
 | GAPDiS | 2025 | CCS | GAPDiS: Gradient-Assisted Perturbation Design via Sequence Editing for Website Fingerprinting Defense | [Code](https://github.com/ByskyXie/GAPDiS) | Ref |
