@@ -14,7 +14,7 @@
 | --- | --- | --- | --------- | --------- | ------------ | --------------- | --------------- | --------- | --------- |
 
 
-| GTT23 | 2023 | Any | Real Tor usage | Visited service | Real client software | \(1.4 \times 10^7\) | \(\langle 1.1 \times 10^6 \text{ domains} \rangle\) || [On request](https://doi.org/10.5281/zenodo.10620519) |
+| GTT23 | 2023 | Any | Real Tor usage | Visited service | Real client software | colspan=2 1.4 x 10^7 ( 1.1 x 10^6  domains ) | No | [On request](https://doi.org/10.5281/zenodo.10620519) |
 
 
 
