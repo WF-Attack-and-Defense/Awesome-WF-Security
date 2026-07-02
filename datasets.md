@@ -10,7 +10,7 @@
 > In this dataset listing, we use the publication year of the corresponding paper as the dataset year.
 > \(N_C\) and \(N_I\) denote the number of classes (domains) and the number of instances collected per monitored class, respectively.
 
-| Name | Year | Activity | Activity detailed | User model | Trace generation software | Closed-world \(N_C \times N_I\) | Open-world \(N_C \times N_I\) |  | Link |
+| Name | Year | Activity | Activity detailed | User model | Trace generation software | Closed-world \(N_C x N_I\) | Open-world \(N_C x N_I\) |  | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | D1–D7 | 2024 | Web | Tranco top sites | Index page | TBB 10.5; Chrome 112.0 | \(7.4 \times 10^5\) | 100 | 700 | \(4 \times 10^3\) | [Online](https://zenodo.org/records/16607834) |
 | CW/OW | Ca. 2024 | Web | Alexa top sites, random subpage | Random subpage (multi-tab) | TBB | \(8.1 \times 10^4\) | 1000 | 10 | \(9.3 \times 10^3\) | [Online](https://zenodo.org/records/13252953) |
