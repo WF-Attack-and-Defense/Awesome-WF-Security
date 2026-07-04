@@ -8,6 +8,7 @@
 ## Datasets listing
 
 > In this dataset listing, we use the publication year of the corresponding paper as the dataset year.
+> This dataset listing includes only datasets with publicly accessible and valid download links.
 > \(N_C\) and \(N_I\) denote the number of classes (domains) and the number of instances collected per monitored class, respectively.
 
 | Name | Year | Activity | Activity detailed | User model | Trace generation software | Closed-world \(N_C x N_I\) | Open-world \(N_C x N_I\) | Multi-tab included? | Download Link |
