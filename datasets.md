@@ -11,7 +11,8 @@
 > \(N_C\) and \(N_I\) denote the number of classes (domains) and the number of instances collected per monitored class, respectively.
 
 | Name | Year | Activity | Activity detailed | User model | Trace generation software | Closed-world \(N_C x N_I\) | Open-world \(N_C x N_I\) | Multi-tab included? | Download Link |
-| --- | --- | --- | --------- | --------- | ------------ | --------------- | --------------- | --------- | --------- |
+| --- | --- | --- | --------- | --------- | ------------ | --------------- | --------------- | --------- | --------- | 
+| STAR | 2026 | Web | Tranco Top list; Collection location across North America, Europe, and Asia  | Index page | Chrome browser; Selenium | 150, 000 x 1 | 20, 000 x 1 | No | [Download](https://zenodo.org/records/17060855) |
 | GTT23 | 2023 | Any | Real Tor usage | Visited service | Real client software | 1.4 x 10^7 (1.1 x 10^6 domains) | Curated manually | No | [Download](https://doi.org/10.5281/zenodo.10620519) |
 
 
