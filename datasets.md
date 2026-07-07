@@ -15,6 +15,7 @@
 | --- | --- | --- | --------- | --------- | ------------ | --------------- | --------------- | --------- | --------- | 
 | STAR | 2026 | Web | Tranco Top list; Collection location across North America, Europe, and Asia  | Index page | Chrome browser; Selenium; Tor | 150, 000 x 1 | 20, 000 x 1 | No | [Download](https://zenodo.org/records/17060855) |
 | HiFi-WF | 2026 | Web | Tranco Top list | Index page; Subpage | Chrome browser; Tor | Homepage-Subpage: 250 x 10 | 12, 000 x 1 | Yes | [Download](https://drive.google.com/file/d/1v86rGzmXOrV2tAGfNvCzhTyi69bZNSUv/view) |
+| UDA-WF | 2026 | Web | MAJESTIC Top-Ranking Website | Index page  | TBB v13.0.1; Tor-browser-selenium | 90 x 100 | 9000 x 1 | No | [Download](https://github.com/Lwsy123/UDA-WF) |
 | GTT23 | 2023 | Any | Real Tor usage | Visited service | Real client software | 1.4 x 10^7 (1.1 x 10^6 domains) | Curated manually | No | [Download](https://doi.org/10.5281/zenodo.10620519) |
 
 
