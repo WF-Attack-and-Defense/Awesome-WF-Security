@@ -21,7 +21,7 @@
 | FMWF | P2025 | Web | Top 100 from top.chinaz.com | Index page | Tor browser | 100 x 100; Multi-tab randomly combined |-- | Yes | [Download](https://drive.google.com/drive/folders/1iH-pO2_N-sQmR4AI9yc23R_N0_qvXYyr) |
 | CE-450 | P2025 | Web | Alexa top sites | Index page | Selenium | 400 x 50 | 50 x 50 | No | [Download](https://drive.google.com/file/d/1OuHoMh2QmLg5k1ogJROGkTbtgGeVexbT/view?usp=sharing) |
 | GTT23 | 2023 | Any | Real Tor usage | Visited service | Real client software | 1.4 x 10^7 (1.1 x 10^6 domains) | Curated manually | No | [Requests](https://doi.org/10.5281/zenodo.10620519) |
-| Oscar | P2024 | Web | Alexa top sites, random subpage | Random subpage (multi-tab) | TBB | 81,284 traces | 9,236 traces | No | [Download](https://zenodo.org/records/13252953) |
+| Oscar | P2024 | Web | Alexa top sites, random subpage | Random subpage (multi-tab) | TBB | 81,284 traces | 9,236 traces | Yes | [Download](https://zenodo.org/records/13252953) |
 | Drift | P2023 | Web | Popular websites, links from Rimmer et al. | Index page | TBB 11.0.10; tor-browser-selenium 0.6.3 | 90 x ~110 | 5,000 | No | [Download](https://github.com/SPIN-UMass/Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces) |
 | ARES | 2022 | Web | Alexa top pages | Index page (multi-tab) | TBB; Selenium | 5.7 x 10^5 traces | -- | Yes | [Download](https://github.com/Xinhao-Deng/Multitab-WF-Datasets) |
 | D<sub>tbs, tor</sub> | 2022 | Web | Wikipedia browsing | Random subpage | tor-browser-selenium | 98 x 200 | -- | Yes | [Download](https://explainwf-popets2023.github.io/data/) |
