@@ -22,9 +22,18 @@
 | CE-450 | P2025 | Web | Alexa top sites | Index page | Selenium | 400 x 50 | 50 x 50 | No | [Download](https://drive.google.com/file/d/1OuHoMh2QmLg5k1ogJROGkTbtgGeVexbT/view?usp=sharing) |
 | GTT23 | 2023 | Any | Real Tor usage | Visited service | Real client software | 1.4 x 10^7 (1.1 x 10^6 domains) | Curated manually | No | [Requests](https://doi.org/10.5281/zenodo.10620519) |
 | Oscar | P2024 | Web | Alexa top sites, random subpage | Random subpage (multi-tab) | TBB | 81,284 traces | 9,236 traces | No | [Download](https://zenodo.org/records/13252953) |
-| Drift | Ca. 2023 | Web | Popular websites, links from Rimmer et al. | Index page | TBB 11.0.10; tor-browser-selenium 0.6.3 | 90 x ~110 | 5,000 | No | [Download](https://github.com/SPIN-UMass/Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces) |
+| Drift | P2023 | Web | Popular websites, links from Rimmer et al. | Index page | TBB 11.0.10; tor-browser-selenium 0.6.3 | 90 x ~110 | 5,000 | No | [Download](https://github.com/SPIN-UMass/Realistic-Website-Fingerprinting-By-Augmenting-Network-Traces) |
 | ARES | 2022 | Web | Alexa top pages | Index page (multi-tab) | TBB; Selenium | 5.7 x 10^5 traces | -- | Yes | [Download](https://github.com/Xinhao-Deng/Multitab-WF-Datasets) |
 | D<sub>tbs, tor</sub> | 2022 | Web | Wikipedia browsing | Random subpage | tor-browser-selenium | 98 x 200 | -- | Yes | [Download](https://explainwf-popets2023.github.io/data/) |
+| BigEnough | 2021 | Web | Open PageRank top pages | Index page | TBB | 950 x 20 | 19,000 x 1 | No | [Download](https://drive.google.com/drive/folders/1cRIujmDFUpVD0rA0U92bxeGaq5DMlzFm?usp=drive_link) |
+| Good Enough | 2020 | Web | Alexa top pages, random subpage | Index page | TBB 9.0.2 | 500 x 20 | 10,000 x 1 | No | [Download](https://github.com/pylls/padding-machines-for-tor) |
+| DF | P2018 | Web | Alexa top sites | Index page | tor-browser-selenium | 95 x 1000 | 40,716 x 1 | No | [Download](https://github.com/deep-fingerprinting/df) |
+| AWF <sub>CW<sub>900</sub></sub> | 2017 | Web | Alexa top sites | Index page | tor 0.2.8.11; TBB 6.5; Selenium | 900 x 2500 | -- | No |  [Download](https://github.com/DistriNet/DLWF) |
+| AWF Recollect | 2017 | Web | Alexa top sites | Index page | tor 0.2.8.11; TBB 6.5; Selenium | 200 x 500 | -- | No | [Download](https://github.com/DistriNet/DLWF) |
+| AWF Open | 2017 | Web | Alexa top sites | Index page | tor 0.2.8.11; TBB 6.5; Selenium | 200 x 2000 | 4 x 10^5 | No | [Download](https://github.com/DistriNet/DLWF) |
+| k-NN | P2014 | Web | Sensitive sites, Alexa top sites | Index page | TBB 3.5.1; iMacros 8.6.0 | 90 x 100 | 5 x 10^3 | No | [Download](https://www.cs.sfu.ca/~taowang/wf/data/) |
+
+
 
 
 
