@@ -9,9 +9,9 @@
 
 > In this dataset listing, we use the publication year of the corresponding paper as the dataset year if the dataset collection date was not provided.
 > This dataset listing includes only datasets with publicly accessible and valid download links.
-> \(N_C\) and \(N_I\) denote the number of classes (domains) and the number of instances collected per monitored class, respectively.
+> (N<sub>C</sub>) and (N<sub>I</sub>) denote the number of classes (domains) and the number of instances collected per monitored class, respectively.
 
-| Name | Year | Dataset Type | Activity | Activity detailed | User model | Trace generation software | Closed-world \(N_C x N_I\) | Open-world \(N_C x N_I\) | Multi-tab included? | Download Link |
+| Name | Year | Dataset Type | Activity | Activity detailed | User model | Trace generation software | Closed-world (N<sub>C</sub> x N<sub>I</sub>) | Open-world (N<sub>C</sub> x N<sub>I</sub>) | Multi-tab included? | Download Link |
 | --- | --- | --- | --- | --------- | --------- | ------------ | --------------- | --------------- | --------- | --------- | 
 | STAR | P2026 | Synthetic | Web | Tranco Top list; Collection location across North America, Europe, and Asia  | Index page | Chrome browser; Selenium; Tor | 150, 000 x 1 | 20, 000 x 1 | No | [Download](https://zenodo.org/records/17060855) |
 | HiFi-WF | P2026 | Synthetic | Web | Tranco Top list | Index page; Subpages | Chrome browser; Tor | Homepage-Subpage: 250 x 10 | 12, 000 x 1 | Yes | [Download](https://drive.google.com/file/d/1v86rGzmXOrV2tAGfNvCzhTyi69bZNSUv/view) |
