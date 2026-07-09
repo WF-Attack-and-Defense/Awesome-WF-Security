@@ -185,7 +185,7 @@
 
 **Cite:** If you find this survey [paper](https://arxiv.org/abs/2510.11804) useful in your research, please consider citing:
 
-	@misc{cui2025comprehensivesurveywebsitefingerprinting,
+	@misc{cui2025survey,
       title={A Comprehensive Survey of Website Fingerprinting Attacks and Defenses in Tor: Advances and Open Challenges}, 
       author={Yuwen Cui and Guangjing Wang and Khanh Vu and Kai Wei and Kehan Shen and Zhengyuan Jiang and Xiao Han and Ning Wang and Zhuo Lu and Yao Liu},
       year={2025},
